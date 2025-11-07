@@ -1,0 +1,1476 @@
+[
+  {
+    "id": "A1-animal-001",
+    "level": "A1",
+    "category": "Animals",
+    "question": "It barks and helps people guard the house. What animal is it?",
+    "choices": [
+      "Dog",
+      "Cat",
+      "Cow",
+      "Bird"
+    ],
+    "correctAnswer": "Dog",
+    "hint_en": [
+      "It is a good friend to people.",
+      "Many families keep one as a pet."
+    ],
+    "hint_ja": [
+      "人のよい友だちです。",
+      "多くの家庭でペットとして飼われています。"
+    ],
+    "translation": "ほえて人の家を守る動物です。どんな動物でしょうか？"
+  },
+  {
+    "id": "A1-animal-002",
+    "level": "A1",
+    "category": "Animals",
+    "question": "It says 'meow' and likes to sleep. What animal is it?",
+    "choices": [
+      "Dog",
+      "Cat",
+      "Rabbit",
+      "Pig"
+    ],
+    "correctAnswer": "Cat",
+    "hint_en": [
+      "It moves quietly.",
+      "It likes warm places."
+    ],
+    "hint_ja": [
+      "静かに動きます。",
+      "あたたかい場所が好きです。"
+    ],
+    "translation": "「ニャー」と鳴いて、よく寝る動物です。どんな動物でしょうか？"
+  },
+  {
+    "id": "A1-animal-003",
+    "level": "A1",
+    "category": "Animals",
+    "question": "It gives milk. What animal is it?",
+    "choices": [
+      "Cow",
+      "Sheep",
+      "Horse",
+      "Goat"
+    ],
+    "correctAnswer": "Cow",
+    "hint_en": [
+      "It is big and lives on a farm.",
+      "You can also eat its meat."
+    ],
+    "hint_ja": [
+      "大きくて牧場にいます。",
+      "肉を食べることもあります。"
+    ],
+    "translation": "ミルクをくれる動物です。どんな動物でしょうか？"
+  },
+  {
+    "id": "A1-clothes-001",
+    "level": "A1",
+    "category": "Clothes",
+    "question": "You wear it on your head. What is it?",
+    "choices": [
+      "Hat",
+      "Shirt",
+      "Shoes",
+      "Pants"
+    ],
+    "correctAnswer": "Hat",
+    "hint_en": [
+      "It keeps your head warm or blocks the sun.",
+      "It is part of fashion."
+    ],
+    "hint_ja": [
+      "頭をあたためたり、太陽をよけたりします。",
+      "ファッションの一部です。"
+    ],
+    "translation": "頭にかぶるものです。何でしょうか？"
+  },
+  {
+    "id": "A1-clothes-002",
+    "level": "A1",
+    "category": "Clothes",
+    "question": "You wear it on your feet. What is it?",
+    "choices": [
+      "Shoes",
+      "Hat",
+      "Coat",
+      "Gloves"
+    ],
+    "correctAnswer": "Shoes",
+    "hint_en": [
+      "You wear it when you go outside.",
+      "You tie it with laces or straps."
+    ],
+    "hint_ja": [
+      "外に出るときに履きます。",
+      "ひもやベルトで結びます。"
+    ],
+    "translation": "足に履くものです。何でしょうか？"
+  },
+  {
+    "id": "A1-clothes-003",
+    "level": "A1",
+    "category": "Clothes",
+    "question": "You wear it on your upper body. It has buttons or a collar. What is it?",
+    "choices": [
+      "Shirt",
+      "Pants",
+      "Skirt",
+      "Jacket"
+    ],
+    "correctAnswer": "Shirt",
+    "hint_en": [
+      "It can be long-sleeved or short-sleeved.",
+      "People wear it at school or work."
+    ],
+    "hint_ja": [
+      "長そでや半そでがあります。",
+      "学校や仕事で着ます。"
+    ],
+    "translation": "上半身に着て、ボタンやえりのある服です。何でしょうか？"
+  },
+  {
+    "id": "A1-clothes-004",
+    "level": "A1",
+    "category": "Clothes",
+    "question": "You wear it when it is cold. It covers your body. What is it?",
+    "choices": [
+      "Coat",
+      "T-shirt",
+      "Shorts",
+      "Hat"
+    ],
+    "correctAnswer": "Coat",
+    "hint_en": [
+      "It keeps you warm in winter.",
+      "You put it over your clothes."
+    ],
+    "hint_ja": [
+      "冬に体をあたためます。",
+      "服の上に着ます。"
+    ],
+    "translation": "寒いときに体をおおうために着るものです。何でしょうか？"
+  },
+  {
+    "id": "A1-clothes-005",
+    "level": "A1",
+    "category": "Clothes",
+    "question": "You wear it on your legs. What is it?",
+    "choices": [
+      "Pants",
+      "Shirt",
+      "Hat",
+      "Gloves"
+    ],
+    "correctAnswer": "Pants",
+    "hint_en": [
+      "It covers both legs.",
+      "You wear it with a belt."
+    ],
+    "hint_ja": [
+      "両足をおおいます。",
+      "ベルトと一緒に着ることもあります。"
+    ],
+    "translation": "足に履く服です。何でしょうか？"
+  },
+  {
+    "id": "A1-clothes-006",
+    "level": "A1",
+    "category": "Clothes",
+    "question": "You wear it in summer. It has short sleeves. What is it?",
+    "choices": [
+      "T-shirt",
+      "Coat",
+      "Sweater",
+      "Scarf"
+    ],
+    "correctAnswer": "T-shirt",
+    "hint_en": [
+      "It is light and comfortable.",
+      "It is popular for casual wear."
+    ],
+    "hint_ja": [
+      "軽くて着やすいです。",
+      "カジュアルな服として人気です。"
+    ],
+    "translation": "夏に着る半そでの服です。何でしょうか？"
+  },
+  {
+    "id": "A1-clothes-007",
+    "level": "A1",
+    "category": "Clothes",
+    "question": "You wear them on your hands in winter. What are they?",
+    "choices": [
+      "Gloves",
+      "Shoes",
+      "Socks",
+      "Pants"
+    ],
+    "correctAnswer": "Gloves",
+    "hint_en": [
+      "They keep your fingers warm.",
+      "You wear one on each hand."
+    ],
+    "hint_ja": [
+      "指をあたためます。",
+      "片手ずつに着けます。"
+    ],
+    "translation": "冬に手につけるものです。何でしょうか？"
+  },
+  {
+    "id": "A1-clothes-008",
+    "level": "A1",
+    "category": "Clothes",
+    "question": "You wear them on your feet under shoes. What are they?",
+    "choices": [
+      "Socks",
+      "Gloves",
+      "Shoes",
+      "Pants"
+    ],
+    "correctAnswer": "Socks",
+    "hint_en": [
+      "They keep your feet warm.",
+      "You change them every day."
+    ],
+    "hint_ja": [
+      "足をあたためます。",
+      "毎日取りかえます。"
+    ],
+    "translation": "靴の下に履くものです。何でしょうか？"
+  },
+  {
+    "id": "A1-clothes-009",
+    "level": "A1",
+    "category": "Clothes",
+    "question": "You wear it around your neck when it’s cold. What is it?",
+    "choices": [
+      "Scarf",
+      "Coat",
+      "Hat",
+      "T-shirt"
+    ],
+    "correctAnswer": "Scarf",
+    "hint_en": [
+      "It is made of soft fabric.",
+      "It keeps your neck warm."
+    ],
+    "hint_ja": [
+      "やわらかい布でできています。",
+      "首をあたためます。"
+    ],
+    "translation": "寒いときに首に巻くものです。何でしょうか？"
+  },
+  {
+    "id": "A1-clothes-010",
+    "level": "A1",
+    "category": "Clothes",
+    "question": "You wear it when you go to bed. What is it?",
+    "choices": [
+      "Pajamas",
+      "T-shirt",
+      "Sweater",
+      "Jacket"
+    ],
+    "correctAnswer": "Pajamas",
+    "hint_en": [
+      "You wear it at night.",
+      "It is soft and comfortable."
+    ],
+    "hint_ja": [
+      "夜に着ます。",
+      "やわらかくて着心地がいいです。"
+    ],
+    "translation": "寝るときに着る服です。何でしょうか？"
+  },
+  {
+    "id": "A1-color-001",
+    "level": "A1",
+    "category": "Colors & Shapes",
+    "question": "It is the color of blood and some apples. What color is it?",
+    "choices": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "correctAnswer": "Red",
+    "hint_en": [
+      "It is a warm color.",
+      "It stands out in signs."
+    ],
+    "hint_ja": [
+      "あたたかい色です。",
+      "標識で目立ちます。"
+    ],
+    "translation": "血や一部のりんごの色です。何色でしょうか？"
+  },
+  {
+    "id": "A1-color-002",
+    "level": "A1",
+    "category": "Colors & Shapes",
+    "question": "It is the color of the sky on a clear day. What color is it?",
+    "choices": [
+      "Blue",
+      "Green",
+      "Black",
+      "White"
+    ],
+    "correctAnswer": "Blue",
+    "hint_en": [
+      "It feels cool.",
+      "You see it in the ocean too."
+    ],
+    "hint_ja": [
+      "涼しい感じの色です。",
+      "海にも見られます。"
+    ],
+    "translation": "晴れた日の空の色です。何色でしょうか？"
+  },
+  {
+    "id": "A1-color-003",
+    "level": "A1",
+    "category": "Colors & Shapes",
+    "question": "It is the color of leaves in summer. What color is it?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "Red",
+      "Purple"
+    ],
+    "correctAnswer": "Green",
+    "hint_en": [
+      "It is the color of many plants.",
+      "It feels fresh."
+    ],
+    "hint_ja": [
+      "多くの植物の色です。",
+      "さわやかな感じです。"
+    ],
+    "translation": "夏の葉の色です。何色でしょうか？"
+  },
+  {
+    "id": "A1-shape-001",
+    "level": "A1",
+    "category": "Colors & Shapes",
+    "question": "It is a round shape like a ball. What shape is it?",
+    "choices": [
+      "Circle",
+      "Square",
+      "Triangle",
+      "Rectangle"
+    ],
+    "correctAnswer": "Circle",
+    "hint_en": [
+      "It has no corners.",
+      "A coin looks like this."
+    ],
+    "hint_ja": [
+      "角がありません。",
+      "コインはこの形です。"
+    ],
+    "translation": "ボールのような丸い形です。何の形でしょうか？"
+  },
+  {
+    "id": "A1-shape-002",
+    "level": "A1",
+    "category": "Colors & Shapes",
+    "question": "It has four equal sides and four corners. What shape is it?",
+    "choices": [
+      "Square",
+      "Circle",
+      "Triangle",
+      "Oval"
+    ],
+    "correctAnswer": "Square",
+    "hint_en": [
+      "All sides are the same length.",
+      "A checkerboard uses this shape."
+    ],
+    "hint_ja": [
+      "すべての辺が同じ長さです。",
+      "チェッカー盤で使われます。"
+    ],
+    "translation": "4つの辺が同じ長さで、4つの角があります。何の形でしょうか？"
+  },
+  {
+    "id": "A1-shape-003",
+    "level": "A1",
+    "category": "Colors & Shapes",
+    "question": "It has three sides and three corners. What shape is it?",
+    "choices": [
+      "Triangle",
+      "Square",
+      "Circle",
+      "Rectangle"
+    ],
+    "correctAnswer": "Triangle",
+    "hint_en": [
+      "It looks like a slice of pizza.",
+      "Road signs often use this shape."
+    ],
+    "hint_ja": [
+      "ピザの一切れのように見えます。",
+      "道路標識によく使われます。"
+    ],
+    "translation": "3つの辺と3つの角がある形です。何の形でしょうか？"
+  },
+  {
+    "id": "A1-family-001",
+    "level": "A1",
+    "category": "Family Members",
+    "question": "He is the male parent in a family. Who is he?",
+    "choices": [
+      "Father",
+      "Mother",
+      "Brother",
+      "Uncle"
+    ],
+    "correctAnswer": "Father",
+    "hint_en": [
+      "Children say 'Dad'.",
+      "He takes care of the family."
+    ],
+    "hint_ja": [
+      "子どもは「お父さん」と呼びます。",
+      "家族の世話をします。"
+    ],
+    "translation": "家族の中の男性の親です。だれでしょうか？"
+  },
+  {
+    "id": "A1-family-002",
+    "level": "A1",
+    "category": "Family Members",
+    "question": "She is the female parent in a family. Who is she?",
+    "choices": [
+      "Mother",
+      "Sister",
+      "Aunt",
+      "Grandmother"
+    ],
+    "correctAnswer": "Mother",
+    "hint_en": [
+      "Children say 'Mom'.",
+      "She cooks and cares for children."
+    ],
+    "hint_ja": [
+      "子どもは「お母さん」と呼びます。",
+      "料理をしたり子どもの世話をします。"
+    ],
+    "translation": "家族の中の女性の親です。だれでしょうか？"
+  },
+  {
+    "id": "A1-family-003",
+    "level": "A1",
+    "category": "Family Members",
+    "question": "He is a boy in the same family as you. Who is he?",
+    "choices": [
+      "Brother",
+      "Father",
+      "Uncle",
+      "Cousin"
+    ],
+    "correctAnswer": "Brother",
+    "hint_en": [
+      "He is your parents’ son.",
+      "He may be older or younger."
+    ],
+    "hint_ja": [
+      "あなたの両親の息子です。",
+      "年上か年下かもしれません。"
+    ],
+    "translation": "あなたと同じ家族にいる男の子です。だれでしょうか？"
+  },
+  {
+    "id": "A1-family-004",
+    "level": "A1",
+    "category": "Family Members",
+    "question": "She is a girl in the same family as you. Who is she?",
+    "choices": [
+      "Sister",
+      "Mother",
+      "Aunt",
+      "Cousin"
+    ],
+    "correctAnswer": "Sister",
+    "hint_en": [
+      "She is your parents’ daughter.",
+      "She may be older or younger."
+    ],
+    "hint_ja": [
+      "あなたの両親の娘です。",
+      "年上か年下かもしれません。"
+    ],
+    "translation": "あなたと同じ家族にいる女の子です。だれでしょうか？"
+  },
+  {
+    "id": "A1-family-005",
+    "level": "A1",
+    "category": "Family Members",
+    "question": "He is your father’s or mother’s father. Who is he?",
+    "choices": [
+      "Grandfather",
+      "Father",
+      "Uncle",
+      "Brother"
+    ],
+    "correctAnswer": "Grandfather",
+    "hint_en": [
+      "People say 'Grandpa'.",
+      "He is older than your parents."
+    ],
+    "hint_ja": [
+      "「おじいさん」と呼ばれます。",
+      "あなたの両親より年上です。"
+    ],
+    "translation": "あなたの父または母の父です。だれでしょうか？"
+  },
+  {
+    "id": "A1-family-006",
+    "level": "A1",
+    "category": "Family Members",
+    "question": "She is your father’s or mother’s mother. Who is she?",
+    "choices": [
+      "Grandmother",
+      "Mother",
+      "Aunt",
+      "Sister"
+    ],
+    "correctAnswer": "Grandmother",
+    "hint_en": [
+      "People say 'Grandma'.",
+      "She tells stories about the past."
+    ],
+    "hint_ja": [
+      "「おばあさん」と呼ばれます。",
+      "むかしの話をしてくれます。"
+    ],
+    "translation": "あなたの父または母の母です。だれでしょうか？"
+  },
+  {
+    "id": "A1-family-007",
+    "level": "A1",
+    "category": "Family Members",
+    "question": "He is your father’s or mother’s brother. Who is he?",
+    "choices": [
+      "Uncle",
+      "Father",
+      "Brother",
+      "Cousin"
+    ],
+    "correctAnswer": "Uncle",
+    "hint_en": [
+      "He is not your father, but he is family.",
+      "You see him at family parties."
+    ],
+    "hint_ja": [
+      "父や母ではありませんが家族です。",
+      "親せきの集まりで会います。"
+    ],
+    "translation": "あなたの父または母の兄弟の男性です。だれでしょうか？"
+  },
+  {
+    "id": "A1-family-008",
+    "level": "A1",
+    "category": "Family Members",
+    "question": "She is your father’s or mother’s sister. Who is she?",
+    "choices": [
+      "Aunt",
+      "Mother",
+      "Sister",
+      "Grandmother"
+    ],
+    "correctAnswer": "Aunt",
+    "hint_en": [
+      "She is not your mother, but she is family.",
+      "She gives you small gifts sometimes."
+    ],
+    "hint_ja": [
+      "母ではありませんが家族です。",
+      "ときどき小さなプレゼントをくれます。"
+    ],
+    "translation": "あなたの父または母の姉妹の女性です。だれでしょうか？"
+  },
+  {
+    "id": "A1-food-001",
+    "level": "A1",
+    "category": "Food & Drinks",
+    "question": "It is white and you drink it in the morning. What is it?",
+    "choices": [
+      "Milk",
+      "Water",
+      "Tea",
+      "Juice"
+    ],
+    "correctAnswer": "Milk",
+    "hint_en": [
+      "It comes from cows.",
+      "You can pour it on cereal."
+    ],
+    "hint_ja": [
+      "牛からとれます。",
+      "シリアルにかけて食べます。"
+    ],
+    "translation": "白くて朝に飲むことが多い飲み物です。何でしょうか？"
+  },
+  {
+    "id": "A1-food-002",
+    "level": "A1",
+    "category": "Food & Drinks",
+    "question": "It is hot and many people drink it in the morning. What is it?",
+    "choices": [
+      "Coffee",
+      "Water",
+      "Milk",
+      "Juice"
+    ],
+    "correctAnswer": "Coffee",
+    "hint_en": [
+      "It has a strong smell.",
+      "Some people add milk or sugar."
+    ],
+    "hint_ja": [
+      "強い香りがあります。",
+      "ミルクや砂糖を入れる人もいます。"
+    ],
+    "translation": "熱くて多くの人が朝に飲む飲み物です。何でしょうか？"
+  },
+  {
+    "id": "A1-food-003",
+    "level": "A1",
+    "category": "Food & Drinks",
+    "question": "It is yellow and long. You eat it for breakfast. What is it?",
+    "choices": [
+      "Banana",
+      "Bread",
+      "Egg",
+      "Orange"
+    ],
+    "correctAnswer": "Banana",
+    "hint_en": [
+      "You peel it before eating.",
+      "It is sweet and soft."
+    ],
+    "hint_ja": [
+      "食べる前に皮をむきます。",
+      "甘くてやわらかいです。"
+    ],
+    "translation": "黄色くて長い果物です。朝食によく食べます。何でしょうか？"
+  },
+  {
+    "id": "A1-food-004",
+    "level": "A1",
+    "category": "Food & Drinks",
+    "question": "It is made from flour and you eat it with butter or jam. What is it?",
+    "choices": [
+      "Bread",
+      "Rice",
+      "Noodles",
+      "Cake"
+    ],
+    "correctAnswer": "Bread",
+    "hint_en": [
+      "You can toast it.",
+      "It is common in breakfast."
+    ],
+    "hint_ja": [
+      "トーストにすることができます。",
+      "朝食によく食べられます。"
+    ],
+    "translation": "小麦粉から作られ、バターやジャムと一緒に食べます。何でしょうか？"
+  },
+  {
+    "id": "A1-food-005",
+    "level": "A1",
+    "category": "Food & Drinks",
+    "question": "It is a round fruit and can be red or green. What is it?",
+    "choices": [
+      "Apple",
+      "Orange",
+      "Peach",
+      "Grape"
+    ],
+    "correctAnswer": "Apple",
+    "hint_en": [
+      "People say it keeps the doctor away.",
+      "You can make pie with it."
+    ],
+    "hint_ja": [
+      "「医者いらず」と言われます。",
+      "パイにして食べることもあります。"
+    ],
+    "translation": "赤または緑の丸い果物です。何でしょうか？"
+  },
+  {
+    "id": "A1-food-006",
+    "level": "A1",
+    "category": "Food & Drinks",
+    "question": "It is a drink made from fruit. What is it?",
+    "choices": [
+      "Juice",
+      "Tea",
+      "Coffee",
+      "Water"
+    ],
+    "correctAnswer": "Juice",
+    "hint_en": [
+      "It can be orange, apple, or grape flavor.",
+      "It is cold and sweet."
+    ],
+    "hint_ja": [
+      "オレンジ、りんご、ぶどう味などがあります。",
+      "冷たくて甘いです。"
+    ],
+    "translation": "果物から作られた飲み物です。何でしょうか？"
+  },
+  {
+    "id": "A1-food-007",
+    "level": "A1",
+    "category": "Food & Drinks",
+    "question": "It is soft and white. You eat it with curry in Japan. What is it?",
+    "choices": [
+      "Rice",
+      "Bread",
+      "Noodles",
+      "Tofu"
+    ],
+    "correctAnswer": "Rice",
+    "hint_en": [
+      "It is a main food in Asia.",
+      "It becomes sticky when cooked."
+    ],
+    "hint_ja": [
+      "アジアの主食です。",
+      "炊くとねばねばします。"
+    ],
+    "translation": "やわらかくて白い食べ物で、日本ではカレーと一緒に食べます。何でしょうか？"
+  },
+  {
+    "id": "A1-food-008",
+    "level": "A1",
+    "category": "Food & Drinks",
+    "question": "It is cold and sweet. You eat it in summer. What is it?",
+    "choices": [
+      "Ice cream",
+      "Cake",
+      "Bread",
+      "Chocolate"
+    ],
+    "correctAnswer": "Ice cream",
+    "hint_en": [
+      "It melts quickly.",
+      "It comes in many flavors."
+    ],
+    "hint_ja": [
+      "すぐにとけます。",
+      "いろいろな味があります。"
+    ],
+    "translation": "冷たくて甘く、夏によく食べる食べ物です。何でしょうか？"
+  },
+  {
+    "id": "A1-food-009",
+    "level": "A1",
+    "category": "Food & Drinks",
+    "question": "It is brown and sweet. You can drink it or eat it as a bar. What is it?",
+    "choices": [
+      "Chocolate",
+      "Coffee",
+      "Juice",
+      "Cake"
+    ],
+    "correctAnswer": "Chocolate",
+    "hint_en": [
+      "It is made from cocoa.",
+      "Many people like it on Valentine’s Day."
+    ],
+    "hint_ja": [
+      "ココアから作られます。",
+      "バレンタインデーに人気です。"
+    ],
+    "translation": "茶色くて甘く、飲んだりバーとして食べたりできます。何でしょうか？"
+  },
+  {
+    "id": "A1-food-010",
+    "level": "A1",
+    "category": "Food & Drinks",
+    "question": "It is a drink made from leaves. You can drink it hot or cold. What is it?",
+    "choices": [
+      "Tea",
+      "Coffee",
+      "Milk",
+      "Juice"
+    ],
+    "correctAnswer": "Tea",
+    "hint_en": [
+      "It is popular in Japan and England.",
+      "Green and black are two types."
+    ],
+    "hint_ja": [
+      "日本やイギリスで人気です。",
+      "緑と黒の二つの種類があります。"
+    ],
+    "translation": "葉から作られ、熱くても冷たくても飲める飲み物です。何でしょうか？"
+  },
+  {
+    "id": "A1-school-001",
+    "level": "A1",
+    "category": "School Items",
+    "question": "You use it to write on paper. What is it?",
+    "choices": [
+      "Pen",
+      "Book",
+      "Bag",
+      "Ruler"
+    ],
+    "correctAnswer": "Pen",
+    "hint_en": [
+      "It has ink inside.",
+      "You hold it in your hand."
+    ],
+    "hint_ja": [
+      "中にインクがあります。",
+      "手に持って使います。"
+    ],
+    "translation": "紙に書くときに使います。何でしょうか？"
+  },
+  {
+    "id": "A1-school-002",
+    "level": "A1",
+    "category": "School Items",
+    "question": "You use it to erase pencil marks. What is it?",
+    "choices": [
+      "Eraser",
+      "Pencil",
+      "Marker",
+      "Sharpener"
+    ],
+    "correctAnswer": "Eraser",
+    "hint_en": [
+      "It is small and soft.",
+      "You use it when you make a mistake."
+    ],
+    "hint_ja": [
+      "小さくてやわらかいです。",
+      "まちがえたときに使います。"
+    ],
+    "translation": "えんぴつのしるしを消すときに使います。何でしょうか？"
+  },
+  {
+    "id": "A1-school-003",
+    "level": "A1",
+    "category": "School Items",
+    "question": "You put your books and notebooks inside it. What is it?",
+    "choices": [
+      "Bag",
+      "Desk",
+      "Box",
+      "Folder"
+    ],
+    "correctAnswer": "Bag",
+    "hint_en": [
+      "You carry it to school.",
+      "It has straps."
+    ],
+    "hint_ja": [
+      "学校に持っていきます。",
+      "ひもがあります。"
+    ],
+    "translation": "本やノートを入れるものです。何でしょうか？"
+  },
+  {
+    "id": "A1-school-004",
+    "level": "A1",
+    "category": "School Items",
+    "question": "You sit on it in the classroom. What is it?",
+    "choices": [
+      "Chair",
+      "Desk",
+      "Board",
+      "Bag"
+    ],
+    "correctAnswer": "Chair",
+    "hint_en": [
+      "It has four legs.",
+      "You can move it easily."
+    ],
+    "hint_ja": [
+      "四本の足があります。",
+      "かんたんに動かせます。"
+    ],
+    "translation": "教室で座るときに使うものです。何でしょうか？"
+  },
+  {
+    "id": "A1-school-005",
+    "level": "A1",
+    "category": "School Items",
+    "question": "You read it to study new things. What is it?",
+    "choices": [
+      "Book",
+      "Bag",
+      "Eraser",
+      "Pencil"
+    ],
+    "correctAnswer": "Book",
+    "hint_en": [
+      "It has many pages.",
+      "You can borrow it from the library."
+    ],
+    "hint_ja": [
+      "たくさんのページがあります。",
+      "図書館から借りられます。"
+    ],
+    "translation": "新しいことを学ぶために読むものです。何でしょうか？"
+  },
+  {
+    "id": "A1-school-006",
+    "level": "A1",
+    "category": "School Items",
+    "question": "You use it to draw straight lines. What is it?",
+    "choices": [
+      "Ruler",
+      "Pen",
+      "Eraser",
+      "Notebook"
+    ],
+    "correctAnswer": "Ruler",
+    "hint_en": [
+      "It is long and flat.",
+      "It has numbers on it."
+    ],
+    "hint_ja": [
+      "長くて平らです。",
+      "上に数字があります。"
+    ],
+    "translation": "まっすぐな線を引くときに使います。何でしょうか？"
+  },
+  {
+    "id": "A1-school-007",
+    "level": "A1",
+    "category": "School Items",
+    "question": "You use it to sharpen your pencil. What is it?",
+    "choices": [
+      "Sharpener",
+      "Eraser",
+      "Ruler",
+      "Pen"
+    ],
+    "correctAnswer": "Sharpener",
+    "hint_en": [
+      "It makes the pencil point sharp.",
+      "You turn the pencil in it."
+    ],
+    "hint_ja": [
+      "えんぴつの先をとがらせます。",
+      "えんぴつを回して使います。"
+    ],
+    "translation": "えんぴつをとがらせるために使います。何でしょうか？"
+  },
+  {
+    "id": "A1-school-008",
+    "level": "A1",
+    "category": "School Items",
+    "question": "You write your homework in it. What is it?",
+    "choices": [
+      "Notebook",
+      "Book",
+      "Desk",
+      "Folder"
+    ],
+    "correctAnswer": "Notebook",
+    "hint_en": [
+      "It has lines on each page.",
+      "You keep it in your bag."
+    ],
+    "hint_ja": [
+      "ページに線があります。",
+      "かばんの中に入れます。"
+    ],
+    "translation": "宿題を書くときに使うものです。何でしょうか？"
+  },
+  {
+    "id": "A1-school-009",
+    "level": "A1",
+    "category": "School Items",
+    "question": "You write on it with chalk in the classroom. What is it?",
+    "choices": [
+      "Blackboard",
+      "Book",
+      "Desk",
+      "Ruler"
+    ],
+    "correctAnswer": "Blackboard",
+    "hint_en": [
+      "Teachers use it every day.",
+      "It is large and dark."
+    ],
+    "hint_ja": [
+      "先生が毎日使います。",
+      "大きくて黒いです。"
+    ],
+    "translation": "教室でチョークで書くときに使うものです。何でしょうか？"
+  },
+  {
+    "id": "A1-school-010",
+    "level": "A1",
+    "category": "School Items",
+    "question": "You sit and write on it. What is it?",
+    "choices": [
+      "Desk",
+      "Chair",
+      "Bag",
+      "Book"
+    ],
+    "correctAnswer": "Desk",
+    "hint_en": [
+      "It has a flat top.",
+      "It stands next to your chair."
+    ],
+    "hint_ja": [
+      "上が平らです。",
+      "いすのとなりにあります。"
+    ],
+    "translation": "座って書くときに使うものです。何でしょうか？"
+  },
+  {
+    "id": "A1-transport-001",
+    "level": "A1",
+    "category": "Transportation",
+    "question": "It has four wheels and you drive it on roads. What is it?",
+    "choices": [
+      "Car",
+      "Bus",
+      "Bicycle",
+      "Train"
+    ],
+    "correctAnswer": "Car",
+    "hint_en": [
+      "A family can sit inside.",
+      "You need a license to drive it."
+    ],
+    "hint_ja": [
+      "家族で中に座れます。",
+      "運転には免許が必要です。"
+    ],
+    "translation": "4つの車輪があり、道路で運転します。何でしょうか？"
+  },
+  {
+    "id": "A1-transport-002",
+    "level": "A1",
+    "category": "Transportation",
+    "question": "It is very long and runs on rails. What is it?",
+    "choices": [
+      "Train",
+      "Car",
+      "Bus",
+      "Ship"
+    ],
+    "correctAnswer": "Train",
+    "hint_en": [
+      "It stops at stations.",
+      "Many people ride it every day."
+    ],
+    "hint_ja": [
+      "駅に止まります。",
+      "毎日多くの人が乗ります。"
+    ],
+    "translation": "とても長く、レールの上を走ります。何でしょうか？"
+  },
+  {
+    "id": "A1-transport-003",
+    "level": "A1",
+    "category": "Transportation",
+    "question": "It has two wheels and you pedal it with your feet. What is it?",
+    "choices": [
+      "Bicycle",
+      "Motorcycle",
+      "Scooter",
+      "Car"
+    ],
+    "correctAnswer": "Bicycle",
+    "hint_en": [
+      "It is good for exercise.",
+      "You can ride it on a bike path."
+    ],
+    "hint_ja": [
+      "運動になります。",
+      "自転車道を走れます。"
+    ],
+    "translation": "2つの車輪があり、足でこいで進みます。何でしょうか？"
+  },
+  {
+    "id": "A1-transport-004",
+    "level": "A1",
+    "category": "Transportation",
+    "question": "It is big and carries many people in the city. What is it?",
+    "choices": [
+      "Bus",
+      "Taxi",
+      "Car",
+      "Bicycle"
+    ],
+    "correctAnswer": "Bus",
+    "hint_en": [
+      "You pay a small fare.",
+      "It has many seats."
+    ],
+    "hint_ja": [
+      "少しお金を払います。",
+      "座席がたくさんあります。"
+    ],
+    "translation": "大きくて、町で多くの人を運びます。何でしょうか？"
+  },
+  {
+    "id": "A1-transport-005",
+    "level": "A1",
+    "category": "Transportation",
+    "question": "It flies in the sky and carries people far away. What is it?",
+    "choices": [
+      "Airplane",
+      "Helicopter",
+      "Train",
+      "Ship"
+    ],
+    "correctAnswer": "Airplane",
+    "hint_en": [
+      "You go to an airport to ride it.",
+      "It moves very fast."
+    ],
+    "hint_ja": [
+      "乗るには空港に行きます。",
+      "とても速く動きます。"
+    ],
+    "translation": "空を飛び、人を遠くまで運びます。何でしょうか？"
+  },
+  {
+    "id": "A1-transport-006",
+    "level": "A1",
+    "category": "Transportation",
+    "question": "It moves on water and carries people or goods. What is it?",
+    "choices": [
+      "Ship",
+      "Car",
+      "Bus",
+      "Train"
+    ],
+    "correctAnswer": "Ship",
+    "hint_en": [
+      "It can be very large.",
+      "You use it to cross the sea."
+    ],
+    "hint_ja": [
+      "とても大きいことがあります。",
+      "海をわたるときに使います。"
+    ],
+    "translation": "水の上を進み、人や荷物を運びます。何でしょうか？"
+  },
+  {
+    "id": "A1-transport-007",
+    "level": "A1",
+    "category": "Transportation",
+    "question": "It is a car that takes you for a fee. What is it?",
+    "choices": [
+      "Taxi",
+      "Bus",
+      "Truck",
+      "Bicycle"
+    ],
+    "correctAnswer": "Taxi",
+    "hint_en": [
+      "You wave your hand to stop it.",
+      "You pay by distance or time."
+    ],
+    "hint_ja": [
+      "手を上げて止めます。",
+      "距離や時間で料金を払います。"
+    ],
+    "translation": "お金を払って乗る車です。何でしょうか？"
+  },
+  {
+    "id": "A1-transport-008",
+    "level": "A1",
+    "category": "Transportation",
+    "question": "It is used to carry heavy things on roads. What is it?",
+    "choices": [
+      "Truck",
+      "Taxi",
+      "Car",
+      "Bus"
+    ],
+    "correctAnswer": "Truck",
+    "hint_en": [
+      "It has a large back part.",
+      "It delivers goods to shops."
+    ],
+    "hint_ja": [
+      "後ろの部分が大きいです。",
+      "お店に商品を届けます。"
+    ],
+    "translation": "道路で重い荷物を運ぶために使います。何でしょうか？"
+  },
+  {
+    "id": "A1-transport-009",
+    "level": "A1",
+    "category": "Transportation",
+    "question": "It is like a bike but has a motor. What is it?",
+    "choices": [
+      "Motorcycle",
+      "Bicycle",
+      "Scooter",
+      "Car"
+    ],
+    "correctAnswer": "Motorcycle",
+    "hint_en": [
+      "It is faster than a bicycle.",
+      "You must wear a helmet."
+    ],
+    "hint_ja": [
+      "自転車より速いです。",
+      "ヘルメットをかぶらなければなりません。"
+    ],
+    "translation": "自転車に似ていますが、エンジンがあります。何でしょうか？"
+  },
+  {
+    "id": "A1-transport-010",
+    "level": "A1",
+    "category": "Transportation",
+    "question": "It is a small board with two wheels. You push with one foot. What is it?",
+    "choices": [
+      "Scooter",
+      "Bicycle",
+      "Skateboard",
+      "Car"
+    ],
+    "correctAnswer": "Scooter",
+    "hint_en": [
+      "Children like to ride it.",
+      "It is simple and light."
+    ],
+    "hint_ja": [
+      "子どもに人気です。",
+      "かんたんで軽いです。"
+    ],
+    "translation": "2つの車輪がついた小さな板で、片足でけって進みます。何でしょうか？"
+  },
+  {
+    "id": "A1-weather-001",
+    "level": "A1",
+    "category": "Weather & Nature",
+    "question": "It is bright in the sky during the day. What is it?",
+    "choices": [
+      "Sun",
+      "Moon",
+      "Star",
+      "Cloud"
+    ],
+    "correctAnswer": "Sun",
+    "hint_en": [
+      "It makes the day warm.",
+      "You should wear sunscreen in summer."
+    ],
+    "hint_ja": [
+      "昼をあたたかくします。",
+      "夏は日やけ止めをぬるとよいです。"
+    ],
+    "translation": "昼の空で明るく光るものです。何でしょうか？"
+  },
+  {
+    "id": "A1-weather-002",
+    "level": "A1",
+    "category": "Weather & Nature",
+    "question": "It falls from the sky as water drops. What is it?",
+    "choices": [
+      "Rain",
+      "Snow",
+      "Fog",
+      "Wind"
+    ],
+    "correctAnswer": "Rain",
+    "hint_en": [
+      "You need an umbrella.",
+      "The ground becomes wet."
+    ],
+    "hint_ja": [
+      "かさが必要です。",
+      "地面がぬれます。"
+    ],
+    "translation": "空から水のしずくとして落ちてきます。何でしょうか？"
+  },
+  {
+    "id": "A1-weather-003",
+    "level": "A1",
+    "category": "Weather & Nature",
+    "question": "It is white and falls in winter. What is it?",
+    "choices": [
+      "Snow",
+      "Rain",
+      "Hail",
+      "Fog"
+    ],
+    "correctAnswer": "Snow",
+    "hint_en": [
+      "It is cold outside.",
+      "You can make a snowman."
+    ],
+    "hint_ja": [
+      "外は寒いです。",
+      "雪だるまを作れます。"
+    ],
+    "translation": "冬に白く降るものです。何でしょうか？"
+  },
+  {
+    "id": "A1-weather-004",
+    "level": "A1",
+    "category": "Weather & Nature",
+    "question": "It moves the leaves and makes kites fly. What is it?",
+    "choices": [
+      "Wind",
+      "Rain",
+      "Cloud",
+      "Fog"
+    ],
+    "correctAnswer": "Wind",
+    "hint_en": [
+      "It can be soft or strong.",
+      "It makes waves on water."
+    ],
+    "hint_ja": [
+      "弱い日も強い日もあります。",
+      "水面に波を作ります。"
+    ],
+    "translation": "木の葉を動かし、たこを飛ばします。何でしょうか？"
+  },
+  {
+    "id": "A1-weather-005",
+    "level": "A1",
+    "category": "Weather & Nature",
+    "question": "It is white and soft in the sky. What is it?",
+    "choices": [
+      "Cloud",
+      "Sun",
+      "Moon",
+      "Star"
+    ],
+    "correctAnswer": "Cloud",
+    "hint_en": [
+      "It can cover the sun.",
+      "Sometimes it brings rain."
+    ],
+    "hint_ja": [
+      "太陽をかくすことがあります。",
+      "雨を連れてくることもあります。"
+    ],
+    "translation": "空にある白くてやわらかいものです。何でしょうか？"
+  },
+  {
+    "id": "A1-weather-006",
+    "level": "A1",
+    "category": "Weather & Nature",
+    "question": "It shines at night and is smaller than the Moon. What is it?",
+    "choices": [
+      "Star",
+      "Sun",
+      "Cloud",
+      "Fog"
+    ],
+    "correctAnswer": "Star",
+    "hint_en": [
+      "You can see many in the night sky.",
+      "They are very far away."
+    ],
+    "hint_ja": [
+      "夜の空にたくさん見えます。",
+      "とても遠くにあります。"
+    ],
+    "translation": "夜に光り、月より小さいものです。何でしょうか？"
+  },
+  {
+    "id": "A1-weather-007",
+    "level": "A1",
+    "category": "Weather & Nature",
+    "question": "It is a tall plant with many leaves and branches. What is it?",
+    "choices": [
+      "Tree",
+      "Flower",
+      "Grass",
+      "Bush"
+    ],
+    "correctAnswer": "Tree",
+    "hint_en": [
+      "Birds make nests in it.",
+      "It gives us shade."
+    ],
+    "hint_ja": [
+      "鳥が巣を作ります。",
+      "日かげを作ってくれます。"
+    ],
+    "translation": "葉と枝が多い、高い植物です。何でしょうか？"
+  },
+  {
+    "id": "A1-weather-008",
+    "level": "A1",
+    "category": "Weather & Nature",
+    "question": "It is colorful and grows in gardens. What is it?",
+    "choices": [
+      "Flower",
+      "Leaf",
+      "Tree",
+      "Bush"
+    ],
+    "correctAnswer": "Flower",
+    "hint_en": [
+      "It has petals.",
+      "It smells nice."
+    ],
+    "hint_ja": [
+      "花びらがあります。",
+      "よい香りがします。"
+    ],
+    "translation": "色がきれいで、庭に育つものです。何でしょうか？"
+  },
+  {
+    "id": "A1-weather-009",
+    "level": "A1",
+    "category": "Weather & Nature",
+    "question": "It flows between the mountains and goes to the sea. What is it?",
+    "choices": [
+      "River",
+      "Lake",
+      "Pond",
+      "Road"
+    ],
+    "correctAnswer": "River",
+    "hint_en": [
+      "It is long and moving.",
+      "Fish live in it."
+    ],
+    "hint_ja": [
+      "長くて流れています。",
+      "魚が住んでいます。"
+    ],
+    "translation": "山と山の間を流れて海へ向かいます。何でしょうか？"
+  },
+  {
+    "id": "A1-weather-010",
+    "level": "A1",
+    "category": "Weather & Nature",
+    "question": "It is very high land. What is it?",
+    "choices": [
+      "Mountain",
+      "Hill",
+      "River",
+      "Valley"
+    ],
+    "correctAnswer": "Mountain",
+    "hint_en": [
+      "People climb it.",
+      "Snow stays on top in winter."
+    ],
+    "hint_ja": [
+      "人がのぼります。",
+      "冬は上に雪が残ります。"
+    ],
+    "translation": "とても高い土地です。何でしょうか？"
+  }
+]

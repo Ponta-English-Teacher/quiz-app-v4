@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Quiz App — JSON + Azure TTS</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <div class="controls">
+      <label>Level:
+        <select id="levelSel" class="select select-lg">
+          <option value="A1">A1</option>
+          <option value="A2">A2</option>
+          <option value="B1">B1</option>
+          <option value="B2">B2</option>
+        </select>
+      </label>
+
+      <label>Category:
+        <select id="catSel" class="select select-lg">
+          <option value="__ALL__">(All)</option>
+        </select>
+      </label>
+
+      <button id="reloadBtn" class="btn btn-lg" type="button">Reload</button>
+    </div>
+
+    <section id="quiz" class="quiz-frame" aria-live="polite">
+      <div class="q-header pretty">
+        <h2 id="questionText" class="q-title">Loading…</h2>
+        <div class="q-controls">
+          <button id="playQuestion" class="btn btn-lg" type="button">🔊 Play Question</button>
+          <button id="hintBtn" class="btn btn-lg" type="button">💡 Hint</button>
+          <button id="explainBtn" class="btn btn-lg" type="button">❓ What does it mean?</button>
+        </div>
+      </div>
+
+      <div id="translationBox" class="hint-box" hidden></div>
+      <div id="hintBox" class="hint-box" hidden></div>
+
+      <div id="feedback" class="feedback" hidden></div>
+
+      <div id="choices" class="choices" role="list"></div>
+
+      <div class="actions-row">
+        <div class="left-actions">
+          <button id="prevBtn" class="btn" type="button">◀ Prev</button>
+          <button id="nextBtn" class="btn btn-primary" type="button">Next ▶</button>
+        </div>
+        <div id="sourceNote" class="meta"></div>
+      </div>
+    </section>
+  </div>
+
+  <!-- keep for app.js -->
+  <div id="meta" class="meta"></div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

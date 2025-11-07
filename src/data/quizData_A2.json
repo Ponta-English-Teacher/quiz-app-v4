@@ -1,0 +1,686 @@
+[
+  {
+    "id": "a2-daily-001",
+    "level": "A2",
+    "category": { "en": "Daily Life", "ja": "日常生活" },
+    "subcategory": { "en": "Polite Language", "ja": "ていねいな表現" },
+    "topic": { "id": "daily-polite-1", "title": { "en": "Polite Things to Say", "ja": "ていねいな言い方" } },
+    "questionType": "shortToMC",
+    "question": { "en": "You are late to class. What is the most polite thing to say first?", "ja": "授業に遅刻しました。最初に何と言うのが一番ていねいですか？" },
+    "hints": [
+      { "en": "Keep it short and respectful.", "ja": "短く、ていねいに。" },
+      { "en": "Two words are enough.", "ja": "2語で十分です。" }
+    ],
+    "choices": [
+      { "en": "I'm sorry.", "ja": "すみません。" },
+      { "en": "Wait for me!", "ja": "待って！" },
+      { "en": "Move, please!", "ja": "どいてください！" },
+      { "en": "It's fine.", "ja": "大丈夫です。" }
+    ],
+    "correctAnswer": { "en": "I'm sorry.", "ja": "すみません。" },
+    "explanation": { "en": "A brief apology is the most polite first step.", "ja": "まずは短く謝るのが一番ていねいです。" },
+    "acceptList": [ { "en": "i'm sorry" }, { "en": "sorry" } ],
+    "tts": {
+      "voice": "en-US-JennyNeural",
+      "questionText": { "en": "You are late to class. What is the most polite thing to say first?", "ja": "授業に遅刻しました。最初に何と言うのが一番ていねいですか？" },
+      "explanationText": { "en": "A brief apology is the most polite first step.", "ja": "まずは短く謝るのが一番ていねいです。" }
+    },
+    "tags": ["a2","politeness","bilingual"]
+  },
+  {
+    "id": "a2-daily-002",
+    "level": "A2",
+    "category": { "en": "Daily Life", "ja": "日常生活" },
+    "subcategory": { "en": "Requests", "ja": "依頼" },
+    "topic": { "id": "daily-requests-1", "title": { "en": "Making Requests", "ja": "依頼のしかた" } },
+    "questionType": "shortToMC",
+    "question": { "en": "You want a classmate to open the window. Which is the most polite request?", "ja": "クラスメートに窓を開けてほしいです。最もていねいな依頼はどれですか？" },
+    "hints": [
+      { "en": "Start with 'Could you...'", "ja": "“Could you …”で始めましょう。" },
+      { "en": "Add 'please'.", "ja": "“please”を加えます。" }
+    ],
+    "choices": [
+      { "en": "Open the window!", "ja": "窓を開けて！" },
+      { "en": "Could you open the window, please?", "ja": "窓を開けていただけますか？" },
+      { "en": "Window, now!", "ja": "窓、今すぐ！" },
+      { "en": "Open it.", "ja": "開けて。" }
+    ],
+    "correctAnswer": { "en": "Could you open the window, please?", "ja": "窓を開けていただけますか？" },
+    "explanation": { "en": "Polite requests use a question form with 'please'.", "ja": "ていねいな依頼は疑問形に“please”を添えます。" },
+    "acceptList": [ { "en": "could you open the window, please?" } ],
+    "vocab": [
+      { "word": { "en": "request", "ja": "依頼" }, "english": "a polite question asking someone to do something", "japanese": "誰かに何かをしてもらうよう丁寧にたのむこと", "ttsText": { "en": "request", "ja": "いらい" } }
+    ],
+    "tts": {
+      "voice": "en-GB-RyanNeural",
+      "questionText": { "en": "You want a classmate to open the window. Which is the most polite request?", "ja": "クラスメートに窓を開けてほしいです。最もていねいな依頼はどれですか？" },
+      "explanationText": { "en": "Polite requests use a question form with 'please'.", "ja": "ていねいな依頼は疑問形に“please”を添えます。" }
+    },
+    "tags": ["a2","requests","bilingual"]
+  },
+  {
+    "id": "a2-daily-003",
+    "level": "A2",
+    "category": { "en": "Daily Life", "ja": "日常生活" },
+    "subcategory": { "en": "Shopping", "ja": "買い物" },
+    "topic": { "id": "daily-shopping-1", "title": { "en": "At the Store", "ja": "お店で" } },
+    "questionType": "shortToMC",
+    "question": { "en": "You do not have small coins. What can you ask the cashier?", "ja": "小銭がありません。レジの人に何と頼めますか？" },
+    "hints": [
+      { "en": "Start with 'Do you have...'", "ja": "“Do you have …”で始めましょう。" },
+      { "en": "Use 'change' for small money.", "ja": "小銭は“change”と言います。" }
+    ],
+    "choices": [
+      { "en": "Do you have change?", "ja": "小銭はありますか？" },
+      { "en": "Give me money.", "ja": "お金をください。" },
+      { "en": "It's free, right?", "ja": "無料ですよね？" },
+      { "en": "Pay later.", "ja": "後で払います。" }
+    ],
+    "correctAnswer": { "en": "Do you have change?", "ja": "小銭はありますか？" },
+    "explanation": { "en": "'Change' means coins or small bills given in return.", "ja": "“change”は釣り銭・小銭のことです。" },
+    "acceptList": [ { "en": "do you have change?" } ],
+    "tts": {
+      "voice": "en-US-GuyNeural",
+      "questionText": { "en": "You do not have small coins. What can you ask the cashier?", "ja": "小銭がありません。レジの人に何と頼めますか？" },
+      "explanationText": { "en": "'Change' means coins or small bills given in return.", "ja": "“change”は釣り銭・小銭のことです。" }
+    },
+    "tags": ["a2","shopping","bilingual"]
+  },
+  {
+    "id": "a2-daily-004",
+    "level": "A2",
+    "category": { "en": "Daily Life", "ja": "日常生活" },
+    "subcategory": { "en": "Everyday Habits", "ja": "日々の習慣" },
+    "topic": { "id": "daily-habits-1", "title": { "en": "Healthy Habits", "ja": "健康的な習慣" } },
+    "questionType": "shortToMC",
+    "question": { "en": "You want more energy for school. Which habit helps most?", "ja": "学校で元気に過ごしたい。どの習慣が一番役立ちますか？" },
+    "hints": [
+      { "en": "Think of rest.", "ja": "休息について考えよう。" },
+      { "en": "It happens at night.", "ja": "夜にします。" }
+    ],
+    "choices": [
+      { "en": "Sleep well", "ja": "よく眠る" },
+      { "en": "Skip breakfast", "ja": "朝食を抜く" },
+      { "en": "Eat only candy", "ja": "お菓子だけ食べる" },
+      { "en": "Stay up late", "ja": "夜更かしする" }
+    ],
+    "correctAnswer": { "en": "Sleep well", "ja": "よく眠る" },
+    "explanation": { "en": "Good sleep gives you energy and helps you focus.", "ja": "十分な睡眠はエネルギーと集中力を高めます。" },
+    "acceptList": [ { "en": "sleep well" }, { "en": "get enough sleep" } ],
+    "tts": {
+      "voice": "en-GB-RyanNeural",
+      "questionText": { "en": "You want more energy for school. Which habit helps most?", "ja": "学校で元気に過ごしたい。どの習慣が一番役立ちますか？" },
+      "explanationText": { "en": "Good sleep gives you energy and helps you focus.", "ja": "十分な睡眠はエネルギーと集中力を高めます。" }
+    },
+    "tags": ["a2","health","bilingual"]
+  },
+
+  {
+    "id": "a2-school-001",
+    "level": "A2",
+    "category": { "en": "School & Study", "ja": "学校と勉強" },
+    "subcategory": { "en": "Classroom English", "ja": "教室英語" },
+    "topic": { "id": "school-classroom-1", "title": { "en": "Useful Classroom Phrases", "ja": "教室で使う表現" } },
+    "questionType": "shortToMC",
+    "question": { "en": "You didn’t hear the teacher clearly. What should you say?", "ja": "先生の声がはっきり聞こえませんでした。何と言うべきですか？" },
+    "hints": [
+      { "en": "Be polite and short.", "ja": "ていねいに、短く。" },
+      { "en": "Ask to repeat.", "ja": "繰り返してもらいましょう。" }
+    ],
+    "choices": [
+      { "en": "Repeat it, now!", "ja": "今すぐ繰り返して！" },
+      { "en": "Please say it again.", "ja": "もう一度お願いします。" },
+      { "en": "Talk louder!", "ja": "もっと大きな声で！" },
+      { "en": "I don’t care.", "ja": "気にしません。" }
+    ],
+    "correctAnswer": { "en": "Please say it again.", "ja": "もう一度お願いします。" },
+    "explanation": { "en": "A short, polite request is best in class.", "ja": "教室では、短くてていねいな依頼が最適です。" },
+    "acceptList": [ { "en": "please say it again" }, { "en": "could you say it again" } ],
+    "tts": {
+      "voice": "en-US-JennyNeural",
+      "questionText": { "en": "You didn’t hear the teacher clearly. What should you say?", "ja": "先生の声がはっきり聞こえませんでした。何と言うべきですか？" },
+      "explanationText": { "en": "A short, polite request is best in class.", "ja": "教室では、短くてていねいな依頼が最適です。" }
+    },
+    "tags": ["a2","school","bilingual"]
+  },
+  {
+    "id": "a2-school-002",
+    "level": "A2",
+    "category": { "en": "School & Study", "ja": "学校と勉強" },
+    "subcategory": { "en": "Study Tips", "ja": "勉強のコツ" },
+    "topic": { "id": "school-tips-1", "title": { "en": "Better Studying", "ja": "勉強を良くする" } },
+    "questionType": "shortToMC",
+    "question": { "en": "Which habit helps you remember new words better?", "ja": "新しい単語をよく覚えるのに役立つ習慣はどれですか？" },
+    "hints": [
+      { "en": "Use a small book.", "ja": "小さなノートを使います。" },
+      { "en": "Review a few minutes every day.", "ja": "毎日数分復習します。" }
+    ],
+    "choices": [
+      { "en": "Make a vocabulary notebook", "ja": "単語ノートを作る" },
+      { "en": "Watch random videos", "ja": "適当な動画を見る" },
+      { "en": "Study once a month", "ja": "月に一度だけ勉強する" },
+      { "en": "Skip reviews", "ja": "復習をしない" }
+    ],
+    "correctAnswer": { "en": "Make a vocabulary notebook", "ja": "単語ノートを作る" },
+    "explanation": { "en": "Regular review in a notebook improves memory.", "ja": "ノートで定期的に復習すると記憶が強化されます。" },
+    "acceptList": [ { "en": "make a vocabulary notebook" }, { "en": "use a vocabulary notebook" } ],
+    "vocab": [
+      { "word": { "en": "review", "ja": "復習" }, "english": "to study something again", "japanese": "学んだことをもう一度学ぶこと", "ttsText": { "en": "review", "ja": "ふくしゅう" } }
+    ],
+    "tts": {
+      "voice": "en-GB-LibbyNeural",
+      "questionText": { "en": "Which habit helps you remember new words better?", "ja": "新しい単語をよく覚えるのに役立つ習慣はどれですか？" },
+      "explanationText": { "en": "Regular review in a notebook improves memory.", "ja": "ノートで定期的に復習すると記憶が強化されます。" }
+    },
+    "tags": ["a2","study","bilingual"]
+  },
+  {
+    "id": "a2-school-003",
+    "level": "A2",
+    "category": { "en": "School & Study", "ja": "学校と勉強" },
+    "subcategory": { "en": "Group Work", "ja": "グループ活動" },
+    "topic": { "id": "school-group-1", "title": { "en": "Working in Groups", "ja": "グループで取り組む" } },
+    "questionType": "shortToMC",
+    "question": { "en": "Your teammate is speaking. What should you do to show respect?", "ja": "チームメイトが話しています。敬意を示すには何をするべきですか？" },
+    "hints": [
+      { "en": "Use your body language.", "ja": "ボディランゲージを使います。" },
+      { "en": "Eye contact helps.", "ja": "目線を合わせます。" }
+    ],
+    "choices": [
+      { "en": "Look at your phone", "ja": "スマホを見る" },
+      { "en": "Talk over them", "ja": "相手の上から話す" },
+      { "en": "Listen and make eye contact", "ja": "相手を見て聞く" },
+      { "en": "Leave the group", "ja": "グループを離れる" }
+    ],
+    "correctAnswer": { "en": "Listen and make eye contact", "ja": "相手を見て聞く" },
+    "explanation": { "en": "Eye contact shows you are listening.", "ja": "目線を合わせることは、相手の話を聞いている合図です。" },
+    "acceptList": [ { "en": "listen and make eye contact" } ],
+    "tts": {
+      "voice": "en-US-GuyNeural",
+      "questionText": { "en": "Your teammate is speaking. What should you do to show respect?", "ja": "チームメイトが話しています。敬意を示すには何をするべきですか？" },
+      "explanationText": { "en": "Eye contact shows you are listening.", "ja": "目線を合わせることは、相手の話を聞いている合図です。" }
+    },
+    "tags": ["a2","groupwork","bilingual"]
+  },
+  {
+    "id": "a2-school-004",
+    "level": "A2",
+    "category": { "en": "School & Study", "ja": "学校と勉強" },
+    "subcategory": { "en": "Time Management", "ja": "時間管理" },
+    "topic": { "id": "school-time-1", "title": { "en": "Planning Study Time", "ja": "学習時間の計画" } },
+    "questionType": "shortToMC",
+    "question": { "en": "You have a test next week. Which plan is best?", "ja": "来週テストがあります。どの計画が最適ですか？" },
+    "hints": [
+      { "en": "Short and regular is better.", "ja": "短くても定期的が良い。" },
+      { "en": "Avoid cramming.", "ja": "一夜漬けを避けます。" }
+    ],
+    "choices": [
+      { "en": "Study 20 minutes every day", "ja": "毎日20分勉強する" },
+      { "en": "Study 3 hours once", "ja": "1回だけ3時間勉強する" },
+      { "en": "Never study", "ja": "勉強しない" },
+      { "en": "Study only on test day", "ja": "試験当日だけ勉強する" }
+    ],
+    "correctAnswer": { "en": "Study 20 minutes every day", "ja": "毎日20分勉強する" },
+    "explanation": { "en": "Spaced, short study helps memory more than cramming.", "ja": "間隔をあけた短時間の学習は一夜漬けより記憶に効果的です。" },
+    "acceptList": [ { "en": "study 20 minutes every day" }, { "en": "study every day" } ],
+    "tts": {
+      "voice": "en-GB-RyanNeural",
+      "questionText": { "en": "You have a test next week. Which plan is best?", "ja": "来週テストがあります。どの計画が最適ですか？" },
+      "explanationText": { "en": "Spaced, short study helps memory more than cramming.", "ja": "間隔をあけた短時間の学習は一夜漬けより記憶に効果的です。" }
+    },
+    "tags": ["a2","timemanagement","bilingual"]
+  },
+
+  {
+    "id": "a2-travel-001",
+    "level": "A2",
+    "category": { "en": "Travel & Directions", "ja": "旅行と道案内" },
+    "subcategory": { "en": "Maps", "ja": "地図" },
+    "topic": { "id": "travel-maps-1", "title": { "en": "Reading Simple Maps", "ja": "かんたんな地図の読み方" } },
+    "questionType": "shortToMC",
+    "question": { "en": "If the station is north of the school, which way should you walk from the school?", "ja": "駅が学校の北にあるなら、学校からどちらへ歩くべきですか？" },
+    "hints": [
+      { "en": "Use a compass direction.", "ja": "方角で答えます。" },
+      { "en": "Opposite of south.", "ja": "南の反対です。" }
+    ],
+    "choices": [
+      { "en": "East", "ja": "東" },
+      { "en": "West", "ja": "西" },
+      { "en": "North", "ja": "北" },
+      { "en": "South", "ja": "南" }
+    ],
+    "correctAnswer": { "en": "North", "ja": "北" },
+    "explanation": { "en": "North is at the top of most maps.", "ja": "多くの地図で北は上にあります。" },
+    "acceptList": [ { "en": "north" } ],
+    "tts": {
+      "voice": "en-GB-RyanNeural",
+      "questionText": { "en": "If the station is north of the school, which way should you walk from the school?", "ja": "駅が学校の北にあるなら、学校からどちらへ歩くべきですか？" },
+      "explanationText": { "en": "North is at the top of most maps.", "ja": "多くの地図で北は上にあります。" }
+    },
+    "tags": ["a2","directions","bilingual"]
+  },
+  {
+    "id": "a2-travel-002",
+    "level": "A2",
+    "category": { "en": "Travel & Directions", "ja": "旅行と道案内" },
+    "subcategory": { "en": "Tickets", "ja": "切符" },
+    "topic": { "id": "travel-tickets-1", "title": { "en": "Buying Tickets", "ja": "切符を買う" } },
+    "questionType": "shortToMC",
+    "question": { "en": "At the station, you need a ticket to Sapporo. What should you say at the counter?", "ja": "駅で札幌行きの切符が必要です。窓口で何と言いますか？" },
+    "hints": [
+      { "en": "Start with 'A ticket to...'", "ja": "“A ticket to …”で始めます。" },
+      { "en": "Add 'please'.", "ja": "“please”を添えます。" }
+    ],
+    "choices": [
+      { "en": "A ticket to Sapporo, please.", "ja": "札幌までの切符をお願いします。" },
+      { "en": "Give me Sapporo.", "ja": "札幌をください。" },
+      { "en": "Ticket free?", "ja": "無料ですか？" },
+      { "en": "I don't need a ticket.", "ja": "切符はいりません。" }
+    ],
+    "correctAnswer": { "en": "A ticket to Sapporo, please.", "ja": "札幌までの切符をお願いします。" },
+    "explanation": { "en": "Simple, polite requests work best at counters.", "ja": "窓口では、簡潔で丁寧な依頼が最も適しています。" },
+    "acceptList": [ { "en": "a ticket to sapporo, please." } ],
+    "tts": {
+      "voice": "en-US-JennyNeural",
+      "questionText": { "en": "At the station, you need a ticket to Sapporo. What should you say at the counter?", "ja": "駅で札幌行きの切符が必要です。窓口で何と言いますか？" },
+      "explanationText": { "en": "Simple, polite requests work best at counters.", "ja": "窓口では、簡潔で丁寧な依頼が最も適しています。" }
+    },
+    "tags": ["a2","tickets","bilingual"]
+  },
+  {
+    "id": "a2-travel-003",
+    "level": "A2",
+    "category": { "en": "Travel & Directions", "ja": "旅行と道案内" },
+    "subcategory": { "en": "Transport", "ja": "交通" },
+    "topic": { "id": "travel-transport-1", "title": { "en": "On the Bus", "ja": "バスで" } },
+    "questionType": "shortToMC",
+    "question": { "en": "You want to get off at the next stop. What can you say to the driver?", "ja": "次の停留所で降りたいです。運転手に何と言えますか？" },
+    "hints": [
+      { "en": "Start with 'Could you...'", "ja": "“Could you …”で始めましょう。" },
+      { "en": "Ask to stop.", "ja": "止まってもらう依頼です。" }
+    ],
+    "choices": [
+      { "en": "Could you stop at the next stop, please?", "ja": "次で止まっていただけますか？" },
+      { "en": "Drive faster!", "ja": "もっと速く！" },
+      { "en": "Stop now!", "ja": "今すぐ止まって！" },
+      { "en": "I will jump.", "ja": "飛び降ります。" }
+    ],
+    "correctAnswer": { "en": "Could you stop at the next stop, please?", "ja": "次で止まっていただけますか？" },
+    "explanation": { "en": "Polite question with 'please' is appropriate.", "ja": "“please”を付けた丁寧な依頼が適切です。" },
+    "acceptList": [ { "en": "could you stop at the next stop, please?" } ],
+    "tts": {
+      "voice": "en-GB-LibbyNeural",
+      "questionText": { "en": "You want to get off at the next stop. What can you say to the driver?", "ja": "次の停留所で降りたいです。運転手に何と言えますか？" },
+      "explanationText": { "en": "Polite question with 'please' is appropriate.", "ja": "“please”を付けた丁寧な依頼が適切です。" }
+    },
+    "tags": ["a2","transport","bilingual"]
+  },
+  {
+    "id": "a2-travel-004",
+    "level": "A2",
+    "category": { "en": "Travel & Directions", "ja": "旅行と道案内" },
+    "subcategory": { "en": "Directions", "ja": "道案内" },
+    "topic": { "id": "travel-directions-1", "title": { "en": "Asking for Directions", "ja": "道をたずねる" } },
+    "questionType": "shortToMC",
+    "question": { "en": "You are lost. Which sentence is best to ask a passerby?", "ja": "道に迷いました。通行人に聞く最も良い文はどれですか？" },
+    "hints": [
+      { "en": "Start with 'Excuse me.'", "ja": "“Excuse me.”で始めましょう。" },
+      { "en": "Ask for help to find a place.", "ja": "場所を探す助けを求めます。" }
+    ],
+    "choices": [
+      { "en": "Excuse me, could you tell me how to get to the station?", "ja": "すみません、駅への行き方を教えていただけますか？" },
+      { "en": "Where!", "ja": "どこ！" },
+      { "en": "Give me a map.", "ja": "地図をください。" },
+      { "en": "Go with me.", "ja": "一緒に来て。" }
+    ],
+    "correctAnswer": { "en": "Excuse me, could you tell me how to get to the station?", "ja": "すみません、駅への行き方を教えていただけますか？" },
+    "explanation": { "en": "A polite question with 'Excuse me' is natural in public.", "ja": "公共の場では“Excuse me”を付けた丁寧な質問が自然です。" },
+    "acceptList": [ { "en": "excuse me, could you tell me how to get to the station?" } ],
+    "tts": {
+      "voice": "en-US-GuyNeural",
+      "questionText": { "en": "You are lost. Which sentence is best to ask a passerby?", "ja": "道に迷いました。通行人に聞く最も良い文はどれですか？" },
+      "explanationText": { "en": "A polite question with 'Excuse me' is natural in public.", "ja": "公共の場では“Excuse me”を付けた丁寧な質問が自然です。" }
+    },
+    "tags": ["a2","directions","bilingual"]
+  },
+
+  {
+    "id": "a2-weather-001",
+    "level": "A2",
+    "category": { "en": "Weather & Nature", "ja": "天気と自然" },
+    "subcategory": { "en": "Everyday Objects", "ja": "身近な物" },
+    "topic": { "id": "weather-objects-1", "title": { "en": "Weather and What We Use", "ja": "天気と使う物" } },
+    "questionType": "shortToMC",
+    "question": { "en": "It’s raining, and you use this to stay dry. What is it?", "ja": "雨が降っています。ぬれないように使う物は何ですか？" },
+    "hints": [
+      { "en": "You hold it.", "ja": "手に持ちます。" },
+      { "en": "It opens like a flower.", "ja": "花のように開きます。" }
+    ],
+    "choices": [
+      { "en": "Umbrella", "ja": "傘" },
+      { "en": "Sunglasses", "ja": "サングラス" },
+      { "en": "Scarf", "ja": "マフラー" },
+      { "en": "Gloves", "ja": "手袋" }
+    ],
+    "correctAnswer": { "en": "Umbrella", "ja": "傘" },
+    "explanation": { "en": "An umbrella keeps you dry when it rains.", "ja": "雨のとき、傘は体をぬれないように守ってくれます。" },
+    "acceptList": [ { "en": "umbrella" }, { "en": "an umbrella" } ],
+    "tts": {
+      "voice": "en-GB-LibbyNeural",
+      "questionText": { "en": "It’s raining, and you use this to stay dry. What is it?", "ja": "雨が降っています。ぬれないように使う物は何ですか？" },
+      "explanationText": { "en": "An umbrella keeps you dry when it rains.", "ja": "雨のとき、傘は体をぬれないように守ってくれます。" }
+    },
+    "tags": ["a2","weather","bilingual"]
+  },
+  {
+    "id": "a2-weather-002",
+    "level": "A2",
+    "category": { "en": "Weather & Nature", "ja": "天気と自然" },
+    "subcategory": { "en": "Seasons", "ja": "季節" },
+    "topic": { "id": "weather-seasons-1", "title": { "en": "Seasons and Clothes", "ja": "季節と服装" } },
+    "questionType": "shortToMC",
+    "question": { "en": "Which clothes are best for winter?", "ja": "冬に最適な服装はどれですか？" },
+    "hints": [
+      { "en": "Think warm.", "ja": "暖かさを考えます。" },
+      { "en": "Cover your body.", "ja": "体を覆います。" }
+    ],
+    "choices": [
+      { "en": "Coat and gloves", "ja": "コートと手袋" },
+      { "en": "T-shirt and shorts", "ja": "Tシャツと短パン" },
+      { "en": "Swimsuit", "ja": "水着" },
+      { "en": "Sun hat", "ja": "日よけ帽子" }
+    ],
+    "correctAnswer": { "en": "Coat and gloves", "ja": "コートと手袋" },
+    "explanation": { "en": "Warm clothes protect you from the cold.", "ja": "暖かい服は寒さから体を守ります。" },
+    "acceptList": [ { "en": "coat and gloves" } ],
+    "tts": {
+      "voice": "en-US-GuyNeural",
+      "questionText": { "en": "Which clothes are best for winter?", "ja": "冬に最適な服装はどれですか？" },
+      "explanationText": { "en": "Warm clothes protect you from the cold.", "ja": "暖かい服は寒さから体を守ります。" }
+    },
+    "tags": ["a2","seasons","bilingual"]
+  },
+  {
+    "id": "a2-weather-003",
+    "level": "A2",
+    "category": { "en": "Weather & Nature", "ja": "天気と自然" },
+    "subcategory": { "en": "Nature Facts", "ja": "自然の知識" },
+    "topic": { "id": "weather-nature-1", "title": { "en": "Simple Nature Facts", "ja": "自然に関する基本" } },
+    "questionType": "shortToMC",
+    "question": { "en": "How many seasons are there in a year in Japan?", "ja": "日本では一年に季節はいくつありますか？" },
+    "hints": [
+      { "en": "Spring to winter.", "ja": "春から冬まで。" },
+      { "en": "Count them.", "ja": "数えましょう。" }
+    ],
+    "choices": [
+      { "en": "Three", "ja": "3つ" },
+      { "en": "Four", "ja": "4つ" },
+      { "en": "Five", "ja": "5つ" },
+      { "en": "Two", "ja": "2つ" }
+    ],
+    "correctAnswer": { "en": "Four", "ja": "4つ" },
+    "explanation": { "en": "Japan has four seasons: spring, summer, autumn, and winter.", "ja": "日本には春・夏・秋・冬の四季があります。" },
+    "acceptList": [ { "en": "four" }, { "en": "4" } ],
+    "tts": {
+      "voice": "en-GB-RyanNeural",
+      "questionText": { "en": "How many seasons are there in a year in Japan?", "ja": "日本では一年に季節はいくつありますか？" },
+      "explanationText": { "en": "Japan has four seasons: spring, summer, autumn, and winter.", "ja": "日本には春・夏・秋・冬の四季があります。" }
+    },
+    "tags": ["a2","nature","bilingual"]
+  },
+  {
+    "id": "a2-weather-004",
+    "level": "A2",
+    "category": { "en": "Weather & Nature", "ja": "天気と自然" },
+    "subcategory": { "en": "Weather Report", "ja": "天気予報" },
+    "topic": { "id": "weather-report-1", "title": { "en": "Reading a Weather Report", "ja": "天気予報を読む" } },
+    "questionType": "shortToMC",
+    "question": { "en": "The forecast says 'windy and cold'. What should you bring?", "ja": "予報に「風が強く寒い」とあります。何を持っていくべきですか？" },
+    "hints": [
+      { "en": "Protect your head and hands.", "ja": "頭と手を守ります。" },
+      { "en": "Keeps you warm.", "ja": "暖かく保ちます。" }
+    ],
+    "choices": [
+      { "en": "A hat and gloves", "ja": "帽子と手袋" },
+      { "en": "Sunglasses", "ja": "サングラス" },
+      { "en": "Flip-flops", "ja": "ビーチサンダル" },
+      { "en": "A fan", "ja": "うちわ" }
+    ],
+    "correctAnswer": { "en": "A hat and gloves", "ja": "帽子と手袋" },
+    "explanation": { "en": "Windy and cold weather needs warm clothing.", "ja": "風が強く寒い日は、暖かい服装が必要です。" },
+    "acceptList": [ { "en": "a hat and gloves" } ],
+    "tts": {
+      "voice": "en-US-JennyNeural",
+      "questionText": { "en": "The forecast says 'windy and cold'. What should you bring?", "ja": "予報に「風が強く寒い」とあります。何を持っていくべきですか？" },
+      "explanationText": { "en": "Windy and cold weather needs warm clothing.", "ja": "風が強く寒い日は、暖かい服装が必要です。" }
+    },
+    "tags": ["a2","weatherreport","bilingual"]
+  },
+
+  {
+    "id": "a2-culture-001",
+    "level": "A2",
+    "category": { "en": "Culture & Customs", "ja": "文化と習慣" },
+    "subcategory": { "en": "Manners", "ja": "マナー" },
+    "topic": { "id": "culture-manners-1", "title": { "en": "Basic Manners", "ja": "基本のマナー" } },
+    "questionType": "shortToMC",
+    "question": { "en": "In Japan, people bow when they meet. What does bowing show?", "ja": "日本では会ったときにおじぎをします。おじぎは何を示しますか？" },
+    "hints": [
+      { "en": "Think of politeness.", "ja": "礼儀について考えてみましょう。" },
+      { "en": "A sign of respect.", "ja": "敬意のしるしです。" }
+    ],
+    "choices": [
+      { "en": "Anger", "ja": "怒り" },
+      { "en": "Respect", "ja": "敬意" },
+      { "en": "Confusion", "ja": "混乱" },
+      { "en": "Fear", "ja": "恐れ" }
+    ],
+    "correctAnswer": { "en": "Respect", "ja": "敬意" },
+    "explanation": { "en": "Bowing is a common way to show respect in Japan.", "ja": "おじぎは日本で敬意を示す一般的な方法です。" },
+    "acceptList": [ { "en": "respect" } ],
+    "vocab": [
+      { "word": { "en": "bow", "ja": "おじぎをする" }, "english": "to bend your body slightly to show respect", "japanese": "軽く体を曲げて敬意を示すこと", "ttsText": { "en": "bow", "ja": "おじぎ" } }
+    ],
+    "tts": {
+      "voice": "en-US-GuyNeural",
+      "questionText": { "en": "In Japan, people bow when they meet. What does bowing show?", "ja": "日本では会ったときにおじぎをします。おじぎは何を示しますか？" },
+      "explanationText": { "en": "Bowing is a common way to show respect in Japan.", "ja": "おじぎは日本で敬意を示す一般的な方法です。" }
+    },
+    "tags": ["a2","culture","bilingual"]
+  },
+  {
+    "id": "a2-culture-002",
+    "level": "A2",
+    "category": { "en": "Culture & Customs", "ja": "文化と習慣" },
+    "subcategory": { "en": "Greetings", "ja": "あいさつ" },
+    "topic": { "id": "culture-greetings-1", "title": { "en": "Greetings Around the World", "ja": "世界のあいさつ" } },
+    "questionType": "shortToMC",
+    "question": { "en": "Which is a polite way to greet someone in English?", "ja": "英語で人にあいさつするていねいな言い方はどれですか？" },
+    "hints": [
+      { "en": "Short and standard.", "ja": "短く、標準的。" },
+      { "en": "Use 'How are you?'", "ja": "“How are you?”を使います。" }
+    ],
+    "choices": [
+      { "en": "Yo, what's up?!", "ja": "よう、なにしてる？" },
+      { "en": "How are you?", "ja": "お元気ですか？" },
+      { "en": "Move!", "ja": "どいて！" },
+      { "en": "Money?", "ja": "お金？" }
+    ],
+    "correctAnswer": { "en": "How are you?", "ja": "お元気ですか？" },
+    "explanation": { "en": "'How are you?' is a common polite greeting in English.", "ja": "“How are you?”は英語で一般的な丁寧なあいさつです。" },
+    "acceptList": [ { "en": "how are you?" } ],
+    "tts": {
+      "voice": "en-GB-RyanNeural",
+      "questionText": { "en": "Which is a polite way to greet someone in English?", "ja": "英語で人にあいさつするていねいな言い方はどれですか？" },
+      "explanationText": { "en": "'How are you?' is a common polite greeting in English.", "ja": "“How are you?”は英語で一般的な丁寧なあいさつです。" }
+    },
+    "tags": ["a2","greetings","bilingual"]
+  },
+  {
+    "id": "a2-culture-003",
+    "level": "A2",
+    "category": { "en": "Culture & Customs", "ja": "文化と習慣" },
+    "subcategory": { "en": "Public Rules", "ja": "公共のルール" },
+    "topic": { "id": "culture-rules-1", "title": { "en": "Reading Signs", "ja": "標識を読む" } },
+    "questionType": "shortToMC",
+    "question": { "en": "You see a sign 'No Food or Drink'. What should you do?", "ja": "「飲食禁止」の札を見ました。どうしますか？" },
+    "hints": [
+      { "en": "Follow the rule.", "ja": "ルールに従います。" },
+      { "en": "Keep the place clean.", "ja": "場所を清潔に保ちます。" }
+    ],
+    "choices": [
+      { "en": "Do not eat or drink there", "ja": "そこで飲食しない" },
+      { "en": "Eat quickly and hide", "ja": "素早く食べて隠す" },
+      { "en": "Drink only water", "ja": "水だけ飲む" },
+      { "en": "Ignore the sign", "ja": "表示を無視する" }
+    ],
+    "correctAnswer": { "en": "Do not eat or drink there", "ja": "そこで飲食しない" },
+    "explanation": { "en": "Signs show rules to follow in public spaces.", "ja": "標識は公共の場で従うべきルールを示します。" },
+    "acceptList": [ { "en": "do not eat or drink there" }, { "en": "don't eat or drink there" } ],
+    "tts": {
+      "voice": "en-US-GuyNeural",
+      "questionText": { "en": "You see a sign 'No Food or Drink'. What should you do?", "ja": "「飲食禁止」の札を見ました。どうしますか？" },
+      "explanationText": { "en": "Signs show rules to follow in public spaces.", "ja": "標識は公共の場で従うべきルールを示します。" }
+    },
+    "tags": ["a2","rules","bilingual"]
+  },
+  {
+    "id": "a2-culture-004",
+    "level": "A2",
+    "category": { "en": "Culture & Customs", "ja": "文化と習慣" },
+    "subcategory": { "en": "Holidays", "ja": "祝日・行事" },
+    "topic": { "id": "culture-holidays-1", "title": { "en": "Holidays and Customs", "ja": "祝日と風習" } },
+    "questionType": "shortToMC",
+    "question": { "en": "Which holiday often includes fireworks in many countries?", "ja": "多くの国で花火が行われることが多い祝日はどれですか？" },
+    "hints": [
+      { "en": "It celebrates a nation.", "ja": "国を祝います。" },
+      { "en": "Often in summer.", "ja": "夏に多い。" }
+    ],
+    "choices": [
+      { "en": "National Day", "ja": "建国記念日／独立記念日" },
+      { "en": "Valentine's Day", "ja": "バレンタインデー" },
+      { "en": "Thanksgiving", "ja": "感謝祭" },
+      { "en": "April Fools' Day", "ja": "エイプリルフール" }
+    ],
+    "correctAnswer": { "en": "National Day", "ja": "建国記念日／独立記念日" },
+    "explanation": { "en": "Many countries celebrate their national day with fireworks.", "ja": "多くの国で建国記念日や独立記念日に花火を行います。" },
+    "acceptList": [ { "en": "national day" }, { "en": "independence day" } ],
+    "tts": {
+      "voice": "en-GB-LibbyNeural",
+      "questionText": { "en": "Which holiday often includes fireworks in many countries?", "ja": "多くの国で花火が行われることが多い祝日はどれですか？" },
+      "explanationText": { "en": "Many countries celebrate their national day with fireworks.", "ja": "多くの国で建国記念日や独立記念日に花火を行います。" }
+    },
+    "tags": ["a2","holidays","bilingual"]
+  },
+
+  {
+    "id": "a2-countries-001",
+    "level": "A2",
+    "category": { "en": "Countries", "ja": "国" },
+    "subcategory": { "en": "Compare Size", "ja": "大きさの比較" },
+    "topic": { "id": "countries-size-1", "title": { "en": "Countries by Size", "ja": "国の大きさ" } },
+    "questionType": "shortToMC",
+    "question": { "en": "Which is bigger by land area: the United States or Canada?", "ja": "面積が大きいのはどちらですか：アメリカ合衆国かカナダか？" },
+    "hints": [
+      { "en": "Think north of the U.S.", "ja": "アメリカの北を考えましょう。" },
+      { "en": "It has many lakes.", "ja": "多くの湖があります。" }
+    ],
+    "choices": [
+      { "en": "United States", "ja": "アメリカ合衆国" },
+      { "en": "Canada", "ja": "カナダ" }
+    ],
+    "correctAnswer": { "en": "Canada", "ja": "カナダ" },
+    "explanation": { "en": "By land area, Canada is larger than the United States.", "ja": "面積では、カナダはアメリカ合衆国より大きいです。" },
+    "acceptList": [ { "en": "canada" } ],
+    "tts": {
+      "voice": "en-US-JennyNeural",
+      "questionText": { "en": "Which is bigger by land area: the United States or Canada?", "ja": "面積が大きいのはどちらですか：アメリカ合衆国かカナダか？" },
+      "explanationText": { "en": "By land area, Canada is larger than the United States.", "ja": "面積では、カナダはアメリカ合衆国より大きいです。" }
+    },
+    "tags": ["a2","geography","bilingual"]
+  },
+  {
+    "id": "a2-countries-002",
+    "level": "A2",
+    "category": { "en": "Countries", "ja": "国" },
+    "subcategory": { "en": "Capitals", "ja": "首都" },
+    "topic": { "id": "countries-capitals-1", "title": { "en": "World Capitals", "ja": "世界の首都" } },
+    "questionType": "shortToMC",
+    "question": { "en": "What is the capital of Canada?", "ja": "カナダの首都はどこですか？" },
+    "hints": [
+      { "en": "Not Toronto.", "ja": "トロントではありません。" },
+      { "en": "Starts with 'O'.", "ja": "“O”で始まります。" }
+    ],
+    "choices": [
+      { "en": "Toronto", "ja": "トロント" },
+      { "en": "Vancouver", "ja": "バンクーバー" },
+      { "en": "Montreal", "ja": "モントリオール" },
+      { "en": "Ottawa", "ja": "オタワ" }
+    ],
+    "correctAnswer": { "en": "Ottawa", "ja": "オタワ" },
+    "explanation": { "en": "Ottawa is Canada’s capital city.", "ja": "カナダの首都はオタワです。" },
+    "acceptList": [ { "en": "ottawa" } ],
+    "tts": {
+      "voice": "en-GB-RyanNeural",
+      "questionText": { "en": "What is the capital of Canada?", "ja": "カナダの首都はどこですか？" },
+      "explanationText": { "en": "Ottawa is Canada’s capital city.", "ja": "カナダの首都はオタワです。" }
+    },
+    "tags": ["a2","capitals","bilingual"]
+  },
+  {
+    "id": "a2-countries-003",
+    "level": "A2",
+    "category": { "en": "Countries", "ja": "国" },
+    "subcategory": { "en": "Neighbors", "ja": "隣国" },
+    "topic": { "id": "countries-neighbors-1", "title": { "en": "Neighbors of Japan", "ja": "日本の近くの国" } },
+    "questionType": "shortToMC",
+    "question": { "en": "Which country is closest to Japan across the sea?", "ja": "日本から海をはさんで最も近い国はどこですか？" },
+    "hints": [
+      { "en": "Think of the Korean Peninsula.", "ja": "朝鮮半島を考えましょう。" },
+      { "en": "South of North Korea.", "ja": "北朝鮮の南。" }
+    ],
+    "choices": [
+      { "en": "South Korea", "ja": "韓国" },
+      { "en": "Australia", "ja": "オーストラリア" },
+      { "en": "France", "ja": "フランス" },
+      { "en": "India", "ja": "インド" }
+    ],
+    "correctAnswer": { "en": "South Korea", "ja": "韓国" },
+    "explanation": { "en": "South Korea is Japan’s neighbor across the sea.", "ja": "韓国は日本の海の向こうにある隣国です。" },
+    "acceptList": [ { "en": "south korea" }, { "en": "korea" } ],
+    "tts": {
+      "voice": "en-US-GuyNeural",
+      "questionText": { "en": "Which country is closest to Japan across the sea?", "ja": "日本から海をはさんで最も近い国はどこですか？" },
+      "explanationText": { "en": "South Korea is Japan’s neighbor across the sea.", "ja": "韓国は日本の海の向こうにある隣国です。" }
+    },
+    "tags": ["a2","neighbors","bilingual"]
+  },
+  {
+    "id": "a2-countries-004",
+    "level": "A2",
+    "category": { "en": "Countries", "ja": "国" },
+    "subcategory": { "en": "Languages", "ja": "言語" },
+    "topic": { "id": "countries-languages-1", "title": { "en": "Countries and Languages", "ja": "国と言語" } },
+    "questionType": "shortToMC",
+    "question": { "en": "Which language is mainly spoken in Australia?", "ja": "オーストラリアで主に話されている言語はどれですか？" },
+    "hints": [
+      { "en": "It is also used in the UK and the USA.", "ja": "イギリスやアメリカでも使われます。" },
+      { "en": "It starts with E.", "ja": "Eで始まります。" }
+    ],
+    "choices": [
+      { "en": "Spanish", "ja": "スペイン語" },
+      { "en": "French", "ja": "フランス語" },
+      { "en": "English", "ja": "英語" },
+      { "en": "German", "ja": "ドイツ語" }
+    ],
+    "correctAnswer": { "en": "English", "ja": "英語" },
+    "explanation": { "en": "English is the main language in Australia.", "ja": "オーストラリアの主要言語は英語です。" },
+    "acceptList": [ { "en": "english" } ],
+    "tts": {
+      "voice": "en-GB-LibbyNeural",
+      "questionText": { "en": "Which language is mainly spoken in Australia?", "ja": "オーストラリアで主に話されている言語はどれですか？" },
+      "explanationText": { "en": "English is the main language in Australia.", "ja": "オーストラリアの主要言語は英語です。" }
+    },
+    "tags": ["a2","languages","bilingual"]
+  }
+]

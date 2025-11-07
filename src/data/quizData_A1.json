@@ -1,0 +1,191 @@
+[
+  {
+    "id": "a1-fruit-001",
+    "level": "A1",
+    "category": { "en": "Fruit", "ja": "果物" },
+    "subcategory": { "en": "Description", "ja": "説明" },
+    "topic": { "id": "fruit-describe-1", "title": { "en": "Describe the Fruit", "ja": "果物を説明しよう" } },
+    "questionType": "shortToMC",
+    "question": { "en": "It is red and round. What fruit is it?", "ja": "赤くて丸いです。これは何の果物ですか？" },
+    "hints": [
+      { "en": "Often in lunch boxes.", "ja": "お弁当に入ります。" },
+      { "en": "Used in pies and juice.", "ja": "パイやジュースに使います。" }
+    ],
+    "choices": [
+      { "en": "Banana", "ja": "バナナ" },
+      { "en": "Apple", "ja": "りんご" },
+      { "en": "Grape", "ja": "ぶどう" },
+      { "en": "Peach", "ja": "もも" }
+    ],
+    "correctAnswer": { "en": "Apple", "ja": "りんご" },
+    "explanation": { "en": "Apples are usually round and can be red, green, or yellow.", "ja": "りんごは丸く、赤・緑・黄色があります。" }
+  },
+  {
+    "id": "a1-fruit-002",
+    "level": "A1",
+    "category": { "en": "Fruit", "ja": "果物" },
+    "subcategory": { "en": "Color", "ja": "色" },
+    "topic": { "id": "fruit-color-1", "title": { "en": "Fruit Colors", "ja": "果物の色" } },
+    "questionType": "shortToMC",
+    "question": { "en": "What is the color of a banana?", "ja": "バナナの色は何色ですか？" },
+    "choices": [
+      { "en": "Yellow", "ja": "黄色" },
+      { "en": "Blue", "ja": "青" },
+      { "en": "Purple", "ja": "紫" },
+      { "en": "Black", "ja": "黒" }
+    ],
+    "correctAnswer": { "en": "Yellow", "ja": "黄色" },
+    "explanation": { "en": "Bananas are usually yellow when ripe.", "ja": "バナナは熟すと黄色になります。" }
+  },
+  {
+    "id": "a1-color-001",
+    "level": "A1",
+    "category": { "en": "Color", "ja": "色" },
+    "subcategory": { "en": "Nature", "ja": "自然" },
+    "topic": { "id": "color-nature-1", "title": { "en": "Colors in Nature", "ja": "自然の色" } },
+    "questionType": "shortToMC",
+    "question": { "en": "What is the color of clouds?", "ja": "雲の色は何色ですか？" },
+    "choices": [
+      { "en": "White", "ja": "白" },
+      { "en": "Green", "ja": "緑" },
+      { "en": "Orange", "ja": "オレンジ" },
+      { "en": "Pink", "ja": "ピンク" }
+    ],
+    "correctAnswer": { "en": "White", "ja": "白" },
+    "explanation": { "en": "Clouds look white on sunny days.", "ja": "晴れの日の雲は白く見えます。" }
+  },
+  {
+    "id": "a1-job-001",
+    "level": "A1",
+    "category": { "en": "Job", "ja": "仕事" },
+    "subcategory": { "en": "Role", "ja": "役割" },
+    "topic": { "id": "job-role-1", "title": { "en": "Who Does This Job?", "ja": "この仕事はだれ？" } },
+    "questionType": "shortToMC",
+    "question": { "en": "They patrol our town. What is the job?", "ja": "町をパトロールします。どんな仕事ですか？" },
+    "choices": [
+      { "en": "Police officer", "ja": "警察官" },
+      { "en": "Chef", "ja": "料理人" },
+      { "en": "Teacher", "ja": "先生" },
+      { "en": "Pilot", "ja": "パイロット" }
+    ],
+    "correctAnswer": { "en": "Police officer", "ja": "警察官" },
+    "explanation": { "en": "Police officers patrol to keep us safe.", "ja": "警察官は安全のために巡回します。" }
+  },
+  {
+    "id": "a1-job-002",
+    "level": "A1",
+    "category": { "en": "Job", "ja": "仕事" },
+    "subcategory": { "en": "Role", "ja": "役割" },
+    "topic": { "id": "job-role-2", "title": { "en": "Who Does This Job?", "ja": "この仕事はだれ？" } },
+    "questionType": "shortToMC",
+    "question": { "en": "They cure sick people. What is the job?", "ja": "病気の人を治します。どんな仕事ですか？" },
+    "choices": [
+      { "en": "Doctor", "ja": "医者" },
+      { "en": "Driver", "ja": "運転手" },
+      { "en": "Singer", "ja": "歌手" },
+      { "en": "Farmer", "ja": "農家" }
+    ],
+    "correctAnswer": { "en": "Doctor", "ja": "医者" },
+    "explanation": { "en": "Doctors help people get healthy.", "ja": "医者は人々が健康になるのを助けます。" }
+  },
+  {
+    "id": "a1-place-001",
+    "level": "A1",
+    "category": { "en": "Place", "ja": "場所" },
+    "subcategory": { "en": "Description", "ja": "説明" },
+    "topic": { "id": "place-desc-1", "title": { "en": "Places in Town", "ja": "町の場所" } },
+    "questionType": "shortToMC",
+    "question": { "en": "You can buy fruits and vegetables here. What is the place?", "ja": "果物や野菜を買えます。どこですか？" },
+    "choices": [
+      { "en": "Supermarket", "ja": "スーパー" },
+      { "en": "Library", "ja": "図書館" },
+      { "en": "Station", "ja": "駅" },
+      { "en": "Hospital", "ja": "病院" }
+    ],
+    "correctAnswer": { "en": "Supermarket", "ja": "スーパー" },
+    "explanation": { "en": "Supermarkets sell food like fruits and vegetables.", "ja": "スーパーでは果物や野菜などの食品を売っています。" }
+  },
+  {
+    "id": "a1-place-002",
+    "level": "A1",
+    "category": { "en": "Place", "ja": "場所" },
+    "subcategory": { "en": "Description", "ja": "説明" },
+    "topic": { "id": "place-desc-2", "title": { "en": "Places in Town", "ja": "町の場所" } },
+    "questionType": "shortToMC",
+    "question": { "en": "You can watch movies there on a big screen. What is the place?", "ja": "大きなスクリーンで映画を見られます。どこですか？" },
+    "choices": [
+      { "en": "Cinema", "ja": "映画館" },
+      { "en": "Post office", "ja": "郵便局" },
+      { "en": "Bakery", "ja": "パン屋" },
+      { "en": "Bank", "ja": "銀行" }
+    ],
+    "correctAnswer": { "en": "Cinema", "ja": "映画館" },
+    "explanation": { "en": "Cinemas have big screens for movies.", "ja": "映画館には映画のための大きなスクリーンがあります。" }
+  },
+  {
+    "id": "a1-countries-001",
+    "level": "A1",
+    "category": { "en": "Countries", "ja": "国" },
+    "subcategory": { "en": "Comparison", "ja": "比較" },
+    "topic": { "id": "countries-compare-1", "title": { "en": "Comparing Countries", "ja": "国の比較" } },
+    "questionType": "shortToMC",
+    "question": { "en": "Which is bigger by land area, America or Canada?", "ja": "面積が大きいのはアメリカとカナダのどちらですか？" },
+    "choices": [
+      { "en": "America (USA)", "ja": "アメリカ合衆国" },
+      { "en": "Canada", "ja": "カナダ" }
+    ],
+    "correctAnswer": { "en": "Canada", "ja": "カナダ" },
+    "explanation": { "en": "Canada is larger than the USA by land area.", "ja": "面積ではカナダの方がアメリカ合衆国より大きいです。" }
+  },
+  {
+    "id": "a1-countries-002",
+    "level": "A1",
+    "category": { "en": "Countries", "ja": "国" },
+    "subcategory": { "en": "Neighbors", "ja": "近くの国" },
+    "topic": { "id": "countries-near-1", "title": { "en": "Countries Near Japan", "ja": "日本の近くの国" } },
+    "questionType": "shortToMC",
+    "question": { "en": "Which country is next to Japan across the sea? It begins with K.", "ja": "日本の海の向こうにある隣国で、Kで始まる国は？" },
+    "choices": [
+      { "en": "Korea (South Korea)", "ja": "韓国" },
+      { "en": "Kenya", "ja": "ケニア" },
+      { "en": "Kuwait", "ja": "クウェート" },
+      { "en": "Kazakhstan", "ja": "カザフスタン" }
+    ],
+    "correctAnswer": { "en": "Korea (South Korea)", "ja": "韓国" },
+    "explanation": { "en": "South Korea is Japan’s neighbor across the sea.", "ja": "韓国は日本の海の向こうの隣国です。" }
+  },
+  {
+    "id": "a1-color-002",
+    "level": "A1",
+    "category": { "en": "Color", "ja": "色" },
+    "subcategory": { "en": "Basic", "ja": "基本" },
+    "topic": { "id": "color-basic-1", "title": { "en": "Basic Colors", "ja": "基本の色" } },
+    "questionType": "shortToMC",
+    "question": { "en": "What color are leaves in spring?", "ja": "春の葉っぱは何色ですか？" },
+    "choices": [
+      { "en": "Green", "ja": "緑" },
+      { "en": "Gray", "ja": "灰色" },
+      { "en": "Brown", "ja": "茶色" },
+      { "en": "Pink", "ja": "ピンク" }
+    ],
+    "correctAnswer": { "en": "Green", "ja": "緑" },
+    "explanation": { "en": "New leaves are green.", "ja": "新しい葉は緑色です。" }
+  },
+  {
+    "id": "a1-fruit-003",
+    "level": "A1",
+    "category": { "en": "Fruit", "ja": "果物" },
+    "subcategory": { "en": "Taste", "ja": "味" },
+    "topic": { "id": "fruit-taste-1", "title": { "en": "Tastes of Fruit", "ja": "果物の味" } },
+    "questionType": "shortToMC",
+    "question": { "en": "It is small and purple or green. It tastes sweet. What is it?", "ja": "小さくて紫または緑で、甘い味です。何ですか？" },
+    "choices": [
+      { "en": "Grape", "ja": "ぶどう" },
+      { "en": "Lemon", "ja": "レモン" },
+      { "en": "Watermelon", "ja": "すいか" },
+      { "en": "Cherry", "ja": "さくらんぼ" }
+    ],
+    "correctAnswer": { "en": "Grape", "ja": "ぶどう" },
+    "explanation": { "en": "Grapes are small and sweet, and can be purple or green.", "ja": "ぶどうは小さく甘く、紫や緑のものがあります。" }
+  }
+]
