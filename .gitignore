@@ -2,3 +2,7 @@
 .env
 .env.local
 public/.DS_Store
+.DS_Store
+public/.DS_Store
+.Rhistory
+server.backup.js
