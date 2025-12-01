@@ -1,0 +1,1305 @@
+[
+  {
+    "id": "b1-places-001",
+    "level": "B1",
+    "category": { "en": "Places", "ja": "場所" },
+    "subcategory": { "en": "Public Buildings", "ja": "公共の建物" },
+    "topic": {
+      "id": "b1-places-courthouse",
+      "title": { "en": "Courthouse", "ja": "裁判所" }
+    },
+    "questionType": "shortToMC",
+    "question": {
+      "en": "Where do judges work when they make important legal decisions?",
+      "ja": "裁判官が重要な法律上の判断を下す場所はどこですか？"
+    },
+    "hints": [
+      { "en": "Think of trials and legal cases.", "ja": "裁判や法律の事件を扱う場所です。" }
+    ],
+    "choices": [
+      { "en": "Courthouse", "ja": "裁判所" },
+      { "en": "City hall", "ja": "市役所" },
+      { "en": "Library", "ja": "図書館" },
+      { "en": "Police station", "ja": "警察署" }
+    ],
+    "correctAnswer": { "en": "Courthouse", "ja": "裁判所" },
+    "explanation": {
+      "en": "Judges work in a courthouse to handle legal cases.",
+      "ja": "裁判官は裁判所で法律の案件を扱います。"
+    },
+    "acceptList": [
+      { "en": "courthouse" },
+      { "en": "court house" }
+    ],
+    "tts": {
+      "voice": "en-US-JennyNeural",
+      "questionText": {
+        "en": "Where do judges work when they make important legal decisions?",
+        "ja": "裁判官が重要な法律上の判断を下す場所はどこですか？"
+      },
+      "explanationText": {
+        "en": "Judges work in a courthouse to handle legal cases.",
+        "ja": "裁判官は裁判所で法律の案件を扱います。"
+      }
+    },
+    "tags": ["b1","places","legal"]
+  },
+  {
+    "id": "b1-places-002",
+    "level": "B1",
+    "category": { "en": "Places", "ja": "場所" },
+    "subcategory": { "en": "Observatories", "ja": "展望施設" },
+    "topic": {
+      "id": "b1-places-observatory",
+      "title": { "en": "Observatory", "ja": "展望台" }
+    },
+    "questionType": "shortToMC",
+    "question": {
+      "en": "Where can you go to get a high view of a city’s landscape?",
+      "ja": "街の景色を高い場所から見たいとき、どこへ行きますか？"
+    },
+    "hints": [
+      { "en": "It is usually at the top of a tall building.", "ja": "高い建物の上にあります。" }
+    ],
+    "choices": [
+      { "en": "Observatory", "ja": "展望台" },
+      { "en": "Museum", "ja": "博物館" },
+      { "en": "Airport", "ja": "空港" },
+      { "en": "Fire station", "ja": "消防署" }
+    ],
+    "correctAnswer": { "en": "Observatory", "ja": "展望台" },
+    "explanation": {
+      "en": "An observatory provides a wide view from above.",
+      "ja": "展望台は高い位置から広い景色を見られます。"
+    },
+    "acceptList": [
+      { "en": "observatory" }
+    ],
+    "tts": {
+      "voice": "en-US-GuyNeural",
+      "questionText": {
+        "en": "Where can you go to get a high view of a city’s landscape?",
+        "ja": "街の景色を高い場所から見たいとき、どこへ行きますか？"
+      },
+      "explanationText": {
+        "en": "An observatory provides a wide view from above.",
+        "ja": "展望台は高い位置から広い景色を見られます。"
+      }
+    },
+    "tags": ["b1","places","view"]
+  },
+  {
+    "id": "b1-places-003",
+    "level": "B1",
+    "category": { "en": "Places", "ja": "場所" },
+    "subcategory": { "en": "Culture", "ja": "文化施設" },
+    "topic": {
+      "id": "b1-places-museum",
+      "title": { "en": "Museum", "ja": "博物館" }
+    },
+    "questionType": "shortToMC",
+    "question": {
+      "en": "Where do people go to see historical objects and art?",
+      "ja": "歴史的な物や芸術作品を見るために、人々はどこへ行きますか？"
+    },
+    "hints": [
+      { "en": "Think of exhibitions.", "ja": "展示がある場所です。" }
+    ],
+    "choices": [
+      { "en": "Museum", "ja": "博物館" },
+      { "en": "Library", "ja": "図書館" },
+      { "en": "Observatory", "ja": "展望台" },
+      { "en": "City hall", "ja": "市役所" }
+    ],
+    "correctAnswer": { "en": "Museum", "ja": "博物館" },
+    "explanation": {
+      "en": "Museums display historical items and works of art.",
+      "ja": "博物館には歴史的な物や芸術作品が展示されています。"
+    },
+    "acceptList": [ { "en": "museum" } ],
+    "tts": {
+      "voice": "en-GB-LibbyNeural",
+      "questionText": {
+        "en": "Where do people go to see historical objects and art?",
+        "ja": "歴史的な物や芸術作品を見るために、人々はどこへ行きますか？"
+      },
+      "explanationText": {
+        "en": "Museums display historical items and works of art.",
+        "ja": "博物館には歴史的な物や芸術作品が展示されています。"
+      }
+    },
+    "tags": ["b1","places","culture"]
+  },
+  {
+    "id": "b1-places-004",
+    "level": "B1",
+    "category": { "en": "Places", "ja": "場所" },
+    "subcategory": { "en": "City Services", "ja": "市のサービス" },
+    "topic": {
+      "id": "b1-places-cityhall",
+      "title": { "en": "City Hall", "ja": "市役所" }
+    },
+    "questionType": "shortToMC",
+    "question": {
+      "en": "Where should you go when you need official documents like a residence certificate?",
+      "ja": "住民票などの公的な書類が必要なとき、どこへ行きますか？"
+    },
+    "hints": [
+      { "en": "A place that handles city services.", "ja": "市のサービスを扱う場所です。" }
+    ],
+    "choices": [
+      { "en": "City hall", "ja": "市役所" },
+      { "en": "Police station", "ja": "警察署" },
+      { "en": "Museum", "ja": "博物館" },
+      { "en": "Barbershop", "ja": "床屋" }
+    ],
+    "correctAnswer": { "en": "City hall", "ja": "市役所" },
+    "explanation": {
+      "en": "City halls provide official documents and city services.",
+      "ja": "市役所は公的書類や市のサービスを提供する場所です。"
+    },
+    "acceptList": [ { "en": "city hall" } ],
+    "tts": {
+      "voice": "en-GB-RyanNeural",
+      "questionText": {
+        "en": "Where should you go when you need official documents like a residence certificate?",
+        "ja": "住民票などの公的な書類が必要なとき、どこへ行きますか？"
+      },
+      "explanationText": {
+        "en": "City halls provide official documents and city services.",
+        "ja": "市役所は公的書類や市のサービスを提供する場所です。"
+      }
+    },
+    "tags": ["b1","places","public"]
+  },
+  {
+    "id": "b1-places-005",
+    "level": "B1",
+    "category": { "en": "Places", "ja": "場所" },
+    "subcategory": { "en": "Campus", "ja": "キャンパス" },
+    "topic": {
+      "id": "b1-places-campus",
+      "title": { "en": "University Campus", "ja": "大学キャンパス" }
+    },
+    "questionType": "shortToMC",
+    "question": {
+      "en": "Where can you find classrooms, libraries, and laboratories in one area?",
+      "ja": "教室・図書館・研究室などが同じ敷地にある場所はどこですか？"
+    },
+    "hints": [
+      { "en": "A place for higher education.", "ja": "高等教育を行う場所です。" }
+    ],
+    "choices": [
+      { "en": "University campus", "ja": "大学キャンパス" },
+      { "en": "Observatory", "ja": "展望台" },
+      { "en": "Museum", "ja": "博物館" },
+      { "en": "Police station", "ja": "警察署" }
+    ],
+    "correctAnswer": {
+      "en": "University campus",
+      "ja": "大学キャンパス"
+    },
+    "explanation": {
+      "en": "A university campus contains many facilities for students.",
+      "ja": "大学キャンパスには学生のための多くの施設があります。"
+    },
+    "acceptList": [ { "en": "university campus" }, { "en": "campus" } ],
+    "tts": {
+      "voice": "en-US-JennyNeural",
+      "questionText": {
+        "en": "Where can you find classrooms, libraries, and laboratories in one area?",
+        "ja": "教室・図書館・研究室などが同じ敷地にある場所はどこですか？"
+      },
+      "explanationText": {
+        "en": "A university campus contains many facilities for students.",
+        "ja": "大学キャンパスには学生のための多くの施設があります。"
+      }
+    },
+    "tags": ["b1","places","school"]
+  },
+
+  {
+    "id": "b1-places-006",
+    "level": "B1",
+    "category": { "en": "Places", "ja": "場所" },
+    "subcategory": { "en": "Transport", "ja": "交通" },
+    "topic": {
+      "id": "b1-places-trainstation",
+      "title": { "en": "Train Station", "ja": "駅" }
+    },
+    "questionType": "shortToMC",
+    "question": {
+      "en": "Where should you go to catch a train for another city?",
+      "ja": "別の街に行くために電車に乗るとき、どこへ行きますか？"
+    },
+    "hints": [
+      { "en": "Look for platforms and signs.", "ja": "ホームや案内表示がある場所です。" }
+    ],
+    "choices": [
+      { "en": "Train station", "ja": "駅" },
+      { "en": "Museum", "ja": "博物館" },
+      { "en": "Library", "ja": "図書館" },
+      { "en": "City hall", "ja": "市役所" }
+    ],
+    "correctAnswer": { "en": "Train station", "ja": "駅" },
+    "explanation": {
+      "en": "You catch trains at train stations.",
+      "ja": "電車は駅で乗ります。"
+    },
+    "acceptList": [ { "en": "station" }, { "en": "train station" } ],
+    "tts": {
+      "voice": "en-US-GuyNeural",
+      "questionText": {
+        "en": "Where should you go to catch a train for another city?",
+        "ja": "別の街に行くために電車に乗るとき、どこへ行きますか？"
+      },
+      "explanationText": {
+        "en": "You catch trains at train stations.",
+        "ja": "電車は駅で乗ります。"
+      }
+    },
+    "tags": ["b1","places","transport"]
+  },
+  {
+    "id": "b1-places-007",
+    "level": "B1",
+    "category": { "en": "Places", "ja": "場所" },
+    "subcategory": { "en": "Medical", "ja": "医療" },
+    "topic": {
+      "id": "b1-places-hospital",
+      "title": { "en": "Hospital", "ja": "病院" }
+    },
+    "questionType": "shortToMC",
+    "question": {
+      "en": "Where should you go when you need medical treatment?",
+      "ja": "治療が必要なとき、どこへ行きますか？"
+    },
+    "hints": [
+      { "en": "Doctors work here.", "ja": "医者が働いています。" }
+    ],
+    "choices": [
+      { "en": "Hospital", "ja": "病院" },
+      { "en": "City hall", "ja": "市役所" },
+      { "en": "Library", "ja": "図書館" },
+      { "en": "Observatory", "ja": "展望台" }
+    ],
+    "correctAnswer": { "en": "Hospital", "ja": "病院" },
+    "explanation": {
+      "en": "Hospitals provide medical care and treatment.",
+      "ja": "病院は治療や医療サービスを提供する場所です。"
+    },
+    "acceptList": [ { "en": "hospital" } ],
+    "tts": {
+      "voice": "en-GB-LibbyNeural",
+      "questionText": {
+        "en": "Where should you go when you need medical treatment?",
+        "ja": "治療が必要なとき、どこへ行きますか？"
+      },
+      "explanationText": {
+        "en": "Hospitals provide medical care and treatment.",
+        "ja": "病院は治療や医療サービスを提供する場所です。"
+      }
+    },
+    "tags": ["b1","places","medical"]
+  },
+  {
+    "id": "b1-places-008",
+    "level": "B1",
+    "category": { "en": "Places", "ja": "場所" },
+    "subcategory": { "en": "Shops", "ja": "店" },
+    "topic": {
+      "id": "b1-places-bakery",
+      "title": { "en": "Bakery", "ja": "パン屋" }
+    },
+    "questionType": "shortToMC",
+    "question": {
+      "en": "Where can you buy fresh bread and pastries?",
+      "ja": "焼きたてのパンやお菓子を買える場所はどこですか？"
+    },
+    "hints": [
+      { "en": "Think of the smell of bread.", "ja": "パンの香りがする場所です。" }
+    ],
+    "choices": [
+      { "en": "Bakery", "ja": "パン屋" },
+      { "en": "Barbershop", "ja": "床屋" },
+      { "en": "Observatory", "ja": "展望台" },
+      { "en": "Police station", "ja": "警察署" }
+    ],
+    "correctAnswer": { "en": "Bakery", "ja": "パン屋" },
+    "explanation": {
+      "en": "A bakery sells bread, cakes, and pastries.",
+      "ja": "パン屋はパンやお菓子を売る店です。"
+    },
+    "acceptList": [ { "en": "bakery" } ],
+    "tts": {
+      "voice": "en-GB-RyanNeural",
+      "questionText": {
+        "en": "Where can you buy fresh bread and pastries?",
+        "ja": "焼きたてのパンやお菓子を買える場所はどこですか？"
+      },
+      "explanationText": {
+        "en": "A bakery sells bread, cakes, and pastries.",
+        "ja": "パン屋はパンやお菓子を売る店です。"
+      }
+    },
+    "tags": ["b1","places","shops"]
+  },
+  {
+    "id": "b1-places-009",
+    "level": "B1",
+    "category": { "en": "Places", "ja": "場所" },
+    "subcategory": { "en": "Services", "ja": "サービス" },
+    "topic": {
+      "id": "b1-places-postoffice",
+      "title": { "en": "Post Office", "ja": "郵便局" }
+    },
+    "questionType": "shortToMC",
+    "question": {
+      "en": "Where can you send a package to another country?",
+      "ja": "海外に荷物を送りたいとき、どこへ行きますか？"
+    },
+    "hints": [
+      { "en": "You can buy stamps here.", "ja": "切手も買える場所です。" }
+    ],
+    "choices": [
+      { "en": "Post office", "ja": "郵便局" },
+      { "en": "Museum", "ja": "博物館" },
+      { "en": "City hall", "ja": "市役所" },
+      { "en": "Library", "ja": "図書館" }
+    ],
+    "correctAnswer": { "en": "Post office", "ja": "郵便局" },
+    "explanation": {
+      "en": "Packages and letters are sent from post offices.",
+      "ja": "荷物や手紙は郵便局から送ります。"
+    },
+    "acceptList": [ { "en": "post office" }, { "en": "postoffice" } ],
+    "tts": {
+      "voice": "en-US-JennyNeural",
+      "questionText": {
+        "en": "Where can you send a package to another country?",
+        "ja": "海外に荷物を送りたいとき、どこへ行きますか？"
+      },
+      "explanationText": {
+        "en": "Packages and letters are sent from post offices.",
+        "ja": "荷物や手紙は郵便局から送ります。"
+      }
+    },
+    "tags": ["b1","places","services"]
+  },
+  {
+    "id": "b1-places-010",
+    "level": "B1",
+    "category": { "en": "Places", "ja": "場所" },
+    "subcategory": { "en": "Entertainment", "ja": "娯楽施設" },
+    "topic": {
+      "id": "b1-places-theater",
+      "title": { "en": "Theater", "ja": "劇場" }
+    },
+    "questionType": "shortToMC",
+    "question": {
+      "en": "Where can you watch plays or musicals performed on stage?",
+      "ja": "舞台で演劇やミュージカルを見るには、どこへ行きますか？"
+    },
+    "hints": [
+      { "en": "Actors perform live here.", "ja": "俳優が生で演じます。" }
+    ],
+    "choices": [
+      { "en": "Theater", "ja": "劇場" },
+      { "en": "Library", "ja": "図書館" },
+      { "en": "Observatory", "ja": "展望台" },
+      { "en": "City hall", "ja": "市役所" }
+    ],
+    "correctAnswer": { "en": "Theater", "ja": "劇場" },
+    "explanation": {
+      "en": "Theaters are places where plays and musicals are performed live.",
+      "ja": "劇場では演劇やミュージカルが生で上演されます。"
+    },
+    "acceptList": [ { "en": "theater" }, { "en": "theatre" } ],
+    "tts": {
+      "voice": "en-US-GuyNeural",
+      "questionText": {
+        "en": "Where can you watch plays or musicals performed on stage?",
+        "ja": "舞台で演劇やミュージカルを見るには、どこへ行きますか？"
+      },
+      "explanationText": {
+        "en": "Theaters are places where plays and musicals are performed live.",
+        "ja": "劇場では演劇やミュージカルが生で上演されます。"
+      }
+    },
+    "tags": ["b1","places","entertainment"]
+  },
+  {
+  "id": "b1-ent-001",
+  "level": "B1",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Sports", "ja": "スポーツ" },
+  "topic": {
+    "id": "b1-ent-soccer",
+    "title": { "en": "Team Sports", "ja": "チームスポーツ" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Which sport is played with eleven players on each team?",
+    "ja": "1チーム11人で行うスポーツはどれですか？"
+  },
+  "hints": [
+    { "en": "It’s the most popular sport in the world.", "ja": "世界で最も人気のあるスポーツです。" }
+  ],
+  "choices": [
+    { "en": "Soccer", "ja": "サッカー" },
+    { "en": "Tennis", "ja": "テニス" },
+    { "en": "Volleyball", "ja": "バレーボール" },
+    { "en": "Table tennis", "ja": "卓球" }
+  ],
+  "correctAnswer": { "en": "Soccer", "ja": "サッカー" },
+  "explanation": {
+    "en": "Soccer is played with eleven players on each team.",
+    "ja": "サッカーは1チーム11人で行われます。"
+  },
+  "acceptList": [{ "en": "soccer" }, { "en": "football" }],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "Which sport is played with eleven players on each team?",
+      "ja": "1チーム11人で行うスポーツはどれですか？"
+    },
+    "explanationText": {
+      "en": "Soccer is played with eleven players on each team.",
+      "ja": "サッカーは1チーム11人で行われます。"
+    }
+  },
+  "tags": ["b1","entertainment","sports"]
+},
+{
+  "id": "b1-ent-002",
+  "level": "B1",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Sports Watching", "ja": "スポーツ観戦" },
+  "topic": {
+    "id": "b1-ent-cheer",
+    "title": { "en": "Cheering", "ja": "応援する" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Your friend has a big match today. What is a natural thing to say?",
+    "ja": "友だちが今日大事な試合です。自然な応援の言葉はどれですか？"
+  },
+  "hints": [
+    { "en": "Short and positive.", "ja": "短くて前向きな言葉です。" }
+  ],
+  "choices": [
+    { "en": "Good luck! I’m cheering for you.", "ja": "がんばって！応援しているよ。" },
+    { "en": "Don’t make a mistake!", "ja": "ミスしないで！" },
+    { "en": "Try not to lose.", "ja": "負けないようにね。" },
+    { "en": "It doesn’t matter if you lose.", "ja": "負けても別にいいよ。" }
+  ],
+  "correctAnswer": {
+    "en": "Good luck! I’m cheering for you.",
+    "ja": "がんばって！応援しているよ。"
+  },
+  "explanation": {
+    "en": "This is the most friendly and supportive expression.",
+    "ja": "これが最も自然で優しい応援の表現です。"
+  },
+  "acceptList": [{ "en": "good luck! i'm cheering for you." }],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "Your friend has a big match today. What is a natural thing to say?",
+      "ja": "友だちが今日大事な試合です。自然な応援の言葉はどれですか？"
+    },
+    "explanationText": {
+      "en": "This is the most friendly and supportive expression.",
+      "ja": "これが最も自然で優しい応援の表現です。"
+    }
+  },
+  "tags": ["b1","entertainment","sports","phrases"]
+},
+{
+  "id": "b1-ent-003",
+  "level": "B1",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Movies", "ja": "映画" },
+  "topic": {
+    "id": "b1-ent-review",
+    "title": { "en": "Movie Opinions", "ja": "映画の感想" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You enjoyed a movie. Which comment sounds natural for B1 level?",
+    "ja": "映画を楽しみました。B1レベルで自然なコメントはどれですか？"
+  },
+  "hints": [
+    { "en": "Give your opinion and a reason.", "ja": "意見と理由を述べます。" }
+  ],
+  "choices": [
+    {
+      "en": "I think it was really exciting and easy to follow.",
+      "ja": "本当にワクワクして、わかりやすかったと思います。"
+    },
+    { "en": "Movie good.", "ja": "映画 よかった。" },
+    { "en": "It is movie.", "ja": "これは映画です。" },
+    { "en": "Everyone must like it or they are strange.", "ja": "好きじゃない人は変です。" }
+  ],
+  "correctAnswer": {
+    "en": "I think it was really exciting and easy to follow.",
+    "ja": "本当にワクワクして、わかりやすかったと思います。"
+  },
+  "explanation": {
+    "en": "The sentence clearly expresses an opinion with a reason.",
+    "ja": "意見と理由が自然に述べられています。"
+  },
+  "acceptList": [
+    { "en": "i think it was really exciting and easy to follow." }
+  ],
+  "tts": {
+    "voice": "en-GB-LibbyNeural",
+    "questionText": {
+      "en": "You enjoyed a movie. Which comment sounds natural for B1 level?",
+      "ja": "映画を楽しみました。B1レベルで自然なコメントはどれですか？"
+    },
+    "explanationText": {
+      "en": "The sentence clearly expresses an opinion with a reason.",
+      "ja": "意見と理由が自然に述べられています。"
+    }
+  },
+  "tags": ["b1","entertainment","movies"]
+},
+{
+  "id": "b1-ent-004",
+  "level": "B1",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Music", "ja": "音楽" },
+  "topic": {
+    "id": "b1-ent-concert",
+    "title": { "en": "Concert", "ja": "コンサート" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Where do people usually go to listen to live music performances?",
+    "ja": "生演奏の音楽を聴くために、人々はどこへ行きますか？"
+  },
+  "hints": [
+    { "en": "There is a stage and many seats.", "ja": "ステージとたくさんの席があります。" }
+  ],
+  "choices": [
+    { "en": "Concert hall", "ja": "コンサートホール" },
+    { "en": "Museum", "ja": "博物館" },
+    { "en": "Library", "ja": "図書館" },
+    { "en": "Airport", "ja": "空港" }
+  ],
+  "correctAnswer": { "en": "Concert hall", "ja": "コンサートホール" },
+  "explanation": {
+    "en": "Live performances are usually held in concert halls.",
+    "ja": "生演奏は通常コンサートホールで行われます。"
+  },
+  "acceptList": [ { "en": "concert hall" } ],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "Where do people usually go to listen to live music performances?",
+      "ja": "生演奏の音楽を聴くために、人々はどこへ行きますか？"
+    },
+    "explanationText": {
+      "en": "Live performances are usually held in concert halls.",
+      "ja": "生演奏は通常コンサートホールで行われます。"
+    }
+  },
+  "tags": ["b1","entertainment","music"]
+},
+{
+  "id": "b1-ent-005",
+  "level": "B1",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Music", "ja": "音楽" },
+  "topic": {
+    "id": "b1-ent-favorite",
+    "title": { "en": "Favorite Music", "ja": "好きな音楽" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Which sentence is a natural way to talk about music you like?",
+    "ja": "好きな音楽について自然に言う文はどれですか？"
+  },
+  "hints": [
+    { "en": "Use 'I like' or 'I'm into'.", "ja": "“I like” や “I’m into” を使います。" }
+  ],
+  "choices": [
+    { "en": "I’m really into jazz these days.", "ja": "最近ジャズにハマっています。" },
+    { "en": "Music is sound.", "ja": "音楽は音です。" },
+    { "en": "I listening music.", "ja": "私は音楽 聞く。" },
+    { "en": "Every music is perfect.", "ja": "すべての音楽は完璧です。" }
+  ],
+  "correctAnswer": {
+    "en": "I’m really into jazz these days.",
+    "ja": "最近ジャズにハマっています。"
+  },
+  "explanation": {
+    "en": "This is a natural B1-level expression using 'I'm into'.",
+    "ja": "“I’m into” を使った自然な表現です。"
+  },
+  "acceptList": [ { "en": "i'm really into jazz these days." } ],
+  "tts": {
+    "voice": "en-GB-RyanNeural",
+    "questionText": {
+      "en": "Which sentence is a natural way to talk about music you like?",
+      "ja": "好きな音楽について自然に言う文はどれですか？"
+    },
+    "explanationText": {
+      "en": "This is a natural B1-level expression using 'I'm into'.",
+      "ja": "“I’m into” を使った自然な表現です。"
+    }
+  },
+  "tags": ["b1","entertainment","music"]
+},
+{
+  "id": "b1-ent-006",
+  "level": "B1",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Movies", "ja": "映画" },
+  "topic": {
+    "id": "b1-ent-genre",
+    "title": { "en": "Film Genres", "ja": "映画のジャンル" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Which movie genre usually includes suspense and solving a crime?",
+    "ja": "緊張感があり、事件を解決する内容が多い映画ジャンルはどれですか？"
+  },
+  "hints": [
+    { "en": "Think of detectives.", "ja": "探偵が出てくることが多いです。" }
+  ],
+  "choices": [
+    { "en": "Mystery", "ja": "ミステリー" },
+    { "en": "Comedy", "ja": "コメディー" },
+    { "en": "Romance", "ja": "恋愛" },
+    { "en": "Musical", "ja": "ミュージカル" }
+  ],
+  "correctAnswer": { "en": "Mystery", "ja": "ミステリー" },
+  "explanation": {
+    "en": "Mystery films focus on solving unknown events or crimes.",
+    "ja": "ミステリー映画は事件や謎を解決する内容が中心です。"
+  },
+  "acceptList": [{ "en": "mystery" }],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "Which movie genre usually includes suspense and solving a crime?",
+      "ja": "緊張感があり、事件を解決する内容が多い映画ジャンルはどれですか？"
+    },
+    "explanationText": {
+      "en": "Mystery films focus on solving unknown events or crimes.",
+      "ja": "ミステリー映画は事件や謎を解決する内容が中心です。"
+    }
+  },
+  "tags": ["b1","entertainment","movies"]
+},
+{
+  "id": "b1-ent-007",
+  "level": "B1",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Events", "ja": "イベント" },
+  "topic": {
+    "id": "b1-ent-festival",
+    "title": { "en": "Festival", "ja": "フェスティバル" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Where do people gather to enjoy food stalls, music, and local traditions?",
+    "ja": "屋台、音楽、地域の文化を楽しむために人々が集まる場所はどこですか？"
+  },
+  "hints": [
+    { "en": "It happens outdoors.", "ja": "屋外で行われることが多いです。" }
+  ],
+  "choices": [
+    { "en": "Festival", "ja": "フェスティバル" },
+    { "en": "Airport", "ja": "空港" },
+    { "en": "Library", "ja": "図書館" },
+    { "en": "Observatory", "ja": "展望台" }
+  ],
+  "correctAnswer": { "en": "Festival", "ja": "フェスティバル" },
+  "explanation": {
+    "en": "Festivals include outdoor events, food, and music.",
+    "ja": "フェスティバルでは屋外イベントや食べ物、音楽が楽しめます。"
+  },
+  "acceptList": [{ "en": "festival" }],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "Where do people gather to enjoy food stalls, music, and local traditions?",
+      "ja": "屋台、音楽、地域の文化を楽しむために人々が集まる場所はどこですか？"
+    },
+    "explanationText": {
+      "en": "Festivals include outdoor events, food, and music.",
+      "ja": "フェスティバルでは屋外イベントや食べ物、音楽が楽しめます。"
+    }
+  },
+  "tags": ["b1","entertainment","events"]
+},
+{
+  "id": "b1-ent-008",
+  "level": "B1",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Social Activities", "ja": "社交" },
+  "topic": {
+    "id": "b1-ent-party",
+    "title": { "en": "Party", "ja": "パーティー" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want your classmates to join a party. Which invitation is most natural?",
+    "ja": "クラスメートをパーティーに誘いたいです。最も自然な誘い方はどれですか？"
+  },
+  "hints": [
+    { "en": "Friendly and simple.", "ja": "友好的でシンプルです。" }
+  ],
+  "choices": [
+    { "en": "Would you like to come to our party this Friday?", "ja": "今週金曜日、私たちのパーティーに来ませんか？" },
+    { "en": "You must come to party.", "ja": "必ずパーティーに来なさい。" },
+    { "en": "I order you to join my party.", "ja": "パーティーに来るよう命令します。" },
+    { "en": "Friday is party day.", "ja": "金曜日はパーティーの日です。" }
+  ],
+  "correctAnswer": {
+    "en": "Would you like to come to our party this Friday?",
+    "ja": "今週金曜日、私たちのパーティーに来ませんか？"
+  },
+  "explanation": {
+    "en": "This is a polite and natural invitation.",
+    "ja": "丁寧で自然な誘い方です。"
+  },
+  "acceptList": [
+    { "en": "would you like to come to our party this friday?" }
+  ],
+  "tts": {
+    "voice": "en-GB-LibbyNeural",
+    "questionText": {
+      "en": "You want your classmates to join a party. Which invitation is most natural?",
+      "ja": "クラスメートをパーティーに誘いたいです。最も自然な誘い方はどれですか？"
+    },
+    "explanationText": {
+      "en": "This is a polite and natural invitation.",
+      "ja": "丁寧で自然な誘い方です。"
+    }
+  },
+  "tags": ["b1","entertainment","party"]
+},
+{
+  "id": "b1-ent-009",
+  "level": "B1",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Shows", "ja": "ショー" },
+  "topic": {
+    "id": "b1-ent-magic",
+    "title": { "en": "Magic Show", "ja": "マジックショー" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "What can you usually see at a magic show?",
+    "ja": "マジックショーでは通常何を見ることができますか？"
+  },
+  "hints": [
+    { "en": "Something looks impossible.", "ja": "不可能に見えることが起きます。" }
+  ],
+  "choices": [
+    { "en": "Illusions", "ja": "手品（イリュージョン）" },
+    { "en": "Cooking", "ja": "料理" },
+    { "en": "Swimming", "ja": "水泳" },
+    { "en": "Studying", "ja": "勉強" }
+  ],
+  "correctAnswer": { "en": "Illusions", "ja": "手品（イリュージョン）" },
+  "explanation": {
+    "en": "Magic shows include illusions and surprising tricks.",
+    "ja": "マジックショーではイリュージョンや驚くような手品が行われます。"
+  },
+  "acceptList": [ { "en": "illusions" } ],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "What can you usually see at a magic show?",
+      "ja": "マジックショーでは通常何を見ることができますか？"
+    },
+    "explanationText": {
+      "en": "Magic shows include illusions and surprising tricks.",
+      "ja": "マジックショーではイリュージョンや驚くような手品が行われます。"
+    }
+  },
+  "tags": ["b1","entertainment","magic"]
+},
+{
+  "id": "b1-ent-010",
+  "level": "B1",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Reading", "ja": "読書" },
+  "topic": {
+    "id": "b1-ent-comic",
+    "title": { "en": "Comics", "ja": "漫画" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Which statement is a natural way to recommend a comic book to a friend?",
+    "ja": "友だちに漫画をすすめる自然な言い方はどれですか？"
+  },
+  "hints": [
+    { "en": "Give a reason why it is good.", "ja": "よい理由を述べると自然です。" }
+  ],
+  "choices": [
+    {
+      "en": "You should try this comic. The story is really fun!",
+      "ja": "この漫画読んでみて。ストーリーがとても楽しいよ！"
+    },
+    { "en": "This is comic.", "ja": "これは漫画です。" },
+    { "en": "You must read everything.", "ja": "全部読まなければいけません。" },
+    { "en": "Read comic now.", "ja": "漫画読め。" }
+  ],
+  "correctAnswer": {
+    "en": "You should try this comic. The story is really fun!",
+    "ja": "この漫画読んでみて。ストーリーがとても楽しいよ！"
+  },
+  "explanation": {
+    "en": "Recommending with a positive reason sounds natural.",
+    "ja": "良い理由を添えてすすめると自然です。"
+  },
+  "acceptList": [{ "en": "you should try this comic. the story is really fun!" }],
+  "tts": {
+    "voice": "en-GB-LibbyNeural",
+    "questionText": {
+      "en": "Which statement is a natural way to recommend a comic book to a friend?",
+      "ja": "友だちに漫画をすすめる自然な言い方はどれですか？"
+    },
+    "explanationText": {
+      "en": "Recommending with a positive reason sounds natural.",
+      "ja": "良い理由を添えてすすめると自然です。"
+    }
+  },
+  "tags": ["b1","entertainment","reading"]
+},
+{
+  "id": "b1-words-001",
+  "level": "B1",
+  "category": { "en": "Words", "ja": "語法" },
+  "subcategory": { "en": "Borrow / Lend", "ja": "borrow / lend" },
+  "topic": {
+    "id": "b1-words-borrow-lend",
+    "title": { "en": "Borrow or Lend?", "ja": "borrow と lend" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Your friend needs a pen. What is the correct sentence?",
+    "ja": "友だちがペンを必要としています。正しい文はどれですか？"
+  },
+  "hints": [
+    { "en": "You give something: lend. You receive something: borrow.", "ja": "自分が相手に「貸す」は lend、「借りる」は borrow です。" }
+  ],
+  "choices": [
+    { "en": "I can lend you my pen.", "ja": "僕のペンを君に貸してあげるよ。" },
+    { "en": "I can borrow you my pen.", "ja": "僕のペンを君に借りてあげるよ。" },
+    { "en": "I can lend from you my pen.", "ja": "僕のペンを君から貸すよ。" },
+    { "en": "I can borrow my pen to you.", "ja": "僕のペンを君に借りるよ。" }
+  ],
+  "correctAnswer": { "en": "I can lend you my pen.", "ja": "僕のペンを君に貸してあげるよ。" },
+  "explanation": {
+    "en": "You say 'lend' when you give something to someone.",
+    "ja": "自分が相手に物を「貸す」ときは lend を使います。"
+  },
+  "acceptList": [{ "en": "i can lend you my pen." }],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "Your friend needs a pen. What is the correct sentence?",
+      "ja": "友だちがペンを必要としています。正しい文はどれですか？"
+    },
+    "explanationText": {
+      "en": "You say 'lend' when you give something to someone.",
+      "ja": "自分が相手に物を「貸す」ときは lend を使います。"
+    }
+  },
+  "tags": ["b1","words","borrow-lend"]
+},
+{
+  "id": "b1-words-002",
+  "level": "B1",
+  "category": { "en": "Words", "ja": "語法" },
+  "subcategory": { "en": "Fun / Funny", "ja": "fun / funny" },
+  "topic": {
+    "id": "b1-words-fun-funny",
+    "title": { "en": "Fun or Funny?", "ja": "fun と funny" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You enjoyed a party a lot. Which sentence is the most natural?",
+    "ja": "とても楽しいパーティーでした。一番自然な文はどれですか？"
+  },
+  "hints": [
+    { "en": "Fun = enjoyable. Funny = makes you laugh.", "ja": "fun は「楽しい」、funny は「おもしろくて笑える」です。" }
+  ],
+  "choices": [
+    { "en": "The party was really fun.", "ja": "そのパーティーは本当に楽しかったです。" },
+    { "en": "The party was really funny.", "ja": "そのパーティーは本当におかしかったです。" },
+    { "en": "I was very fun at the party.", "ja": "私はパーティーでとても楽しかったです。(不自然)" },
+    { "en": "The party made me fun.", "ja": "パーティーは私を楽しくしました。" }
+  ],
+  "correctAnswer": { "en": "The party was really fun.", "ja": "そのパーティーは本当に楽しかったです。" },
+  "explanation": {
+    "en": "We say 'fun' to describe something enjoyable like a party.",
+    "ja": "パーティーのように「楽しい」ものには fun を使います。"
+  },
+  "acceptList": [{ "en": "the party was really fun." }],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "You enjoyed a party a lot. Which sentence is the most natural?",
+      "ja": "とても楽しいパーティーでした。一番自然な文はどれですか？"
+    },
+    "explanationText": {
+      "en": "We say 'fun' to describe something enjoyable like a party.",
+      "ja": "パーティーのように「楽しい」ものには fun を使います。"
+    }
+  },
+  "tags": ["b1","words","fun-funny"]
+},
+{
+  "id": "b1-words-003",
+  "level": "B1",
+  "category": { "en": "Words", "ja": "語法" },
+  "subcategory": { "en": "Late / Lately", "ja": "late / lately" },
+  "topic": {
+    "id": "b1-words-late-lately",
+    "title": { "en": "Late or Lately?", "ja": "late と lately" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to say that recently you have been very busy. Which sentence is correct?",
+    "ja": "最近とても忙しいと言いたいとき、正しい文はどれですか？"
+  },
+  "hints": [
+    { "en": "Lately = recently. Late = not on time.", "ja": "lately は「最近」、late は「遅れて」です。" }
+  ],
+  "choices": [
+    { "en": "I’ve been very busy lately.", "ja": "最近とても忙しいです。" },
+    { "en": "I’ve been very busy late.", "ja": "遅く、とても忙しいです。" },
+    { "en": "I am lately busy.", "ja": "私は最近忙しいです。(語順が不自然)" },
+    { "en": "I late very busy.", "ja": "私は遅くとても忙しいです。" }
+  ],
+  "correctAnswer": { "en": "I’ve been very busy lately.", "ja": "最近とても忙しいです。" },
+  "explanation": {
+    "en": "We use 'lately' to talk about something that has been true in recent days or weeks.",
+    "ja": "最近の状態について言うときは lately を使います。"
+  },
+  "acceptList": [{ "en": "i’ve been very busy lately." }, { "en": "i've been very busy lately." }],
+  "tts": {
+    "voice": "en-GB-LibbyNeural",
+    "questionText": {
+      "en": "You want to say that recently you have been very busy. Which sentence is correct?",
+      "ja": "最近とても忙しいと言いたいとき、正しい文はどれですか？"
+    },
+    "explanationText": {
+      "en": "We use 'lately' to talk about something that has been true in recent days or weeks.",
+      "ja": "最近の状態について言うときは lately を使います。"
+    }
+  },
+  "tags": ["b1","words","late-lately"]
+},
+{
+  "id": "b1-words-004",
+  "level": "B1",
+  "category": { "en": "Words", "ja": "語法" },
+  "subcategory": { "en": "Hard / Hardly", "ja": "hard / hardly" },
+  "topic": {
+    "id": "b1-words-hard-hardly",
+    "title": { "en": "Hard or Hardly?", "ja": "hard と hardly" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to say you almost never watch TV. Which sentence is correct?",
+    "ja": "ほとんどテレビを見ないと言いたいとき、正しい文はどれですか？"
+  },
+  "hints": [
+    { "en": "Hard = with a lot of effort. Hardly = almost not.", "ja": "hard は「一生懸命に」、hardly は「ほとんど～ない」です。" }
+  ],
+  "choices": [
+    { "en": "I hardly ever watch TV.", "ja": "私はほとんどテレビを見ません。" },
+    { "en": "I watch TV hard.", "ja": "私は一生懸命テレビを見ます。" },
+    { "en": "I am hard watching TV.", "ja": "私は一生懸命テレビを見ているところです。" },
+    { "en": "I am hardly TV.", "ja": "私はほとんどテレビです。" }
+  ],
+  "correctAnswer": { "en": "I hardly ever watch TV.", "ja": "私はほとんどテレビを見ません。" },
+  "explanation": {
+    "en": "Hardly ever means 'almost never'.",
+    "ja": "hardly ever は「ほとんど～しない」という意味です。"
+  },
+  "acceptList": [{ "en": "i hardly ever watch tv." }],
+  "tts": {
+    "voice": "en-GB-RyanNeural",
+    "questionText": {
+      "en": "You want to say you almost never watch TV. Which sentence is correct?",
+      "ja": "ほとんどテレビを見ないと言いたいとき、正しい文はどれですか？"
+    },
+    "explanationText": {
+      "en": "Hardly ever means 'almost never'.",
+      "ja": "hardly ever は「ほとんど～しない」という意味です。"
+    }
+  },
+  "tags": ["b1","words","hard-hardly"]
+},
+{
+  "id": "b1-words-005",
+  "level": "B1",
+  "category": { "en": "Words", "ja": "語法" },
+  "subcategory": { "en": "Actually / Currently", "ja": "actually / currently" },
+  "topic": {
+    "id": "b1-words-actually-currently",
+    "title": { "en": "Actually or Currently?", "ja": "actually と currently" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to say that you are a university student now. Which sentence is correct?",
+    "ja": "今、大学生だと言いたいとき、正しい文はどれですか？"
+  },
+  "hints": [
+    { "en": "Currently = now. Actually = in fact (reality).", "ja": "currently は「現在」、actually は「実は、本当は」です。" }
+  ],
+  "choices": [
+    { "en": "I am currently a university student.", "ja": "私は現在、大学生です。" },
+    { "en": "I am actually a university student now in Japan.", "ja": "私は実は今、日本で大学生です。(文としてはOKだが意味が少し違う)" },
+    { "en": "I currently actually a university student.", "ja": "私は現在実は大学生です。(語順が不自然)" },
+    { "en": "I am university student currently actually.", "ja": "私は大学生現在実はです。" }
+  ],
+  "correctAnswer": { "en": "I am currently a university student.", "ja": "私は現在、大学生です。" },
+  "explanation": {
+    "en": "We use 'currently' to talk about our present situation.",
+    "ja": "自分の今の状況について言うときは currently が自然です。"
+  },
+  "acceptList": [{ "en": "i am currently a university student." }],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "You want to say that you are a university student now. Which sentence is correct?",
+      "ja": "今、大学生だと言いたいとき、正しい文はどれですか？"
+    },
+    "explanationText": {
+      "en": "We use 'currently' to talk about our present situation.",
+      "ja": "自分の今の状況について言うときは currently が自然です。"
+    }
+  },
+  "tags": ["b1","words","actually-currently"]
+},
+{
+  "id": "b1-words-006",
+  "level": "B1",
+  "category": { "en": "Words", "ja": "語法" },
+  "subcategory": { "en": "Another / Other / The other", "ja": "another / other / the other" },
+  "topic": {
+    "id": "b1-words-another-other",
+    "title": { "en": "Another or Other?", "ja": "another と other" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You ate one slice of pizza and you want one more. What should you say?",
+    "ja": "ピザを1切れ食べて、もう1切れ欲しいとき、何と言うのがよいですか？"
+  },
+  "hints": [
+    { "en": "Another = one more of the same kind.", "ja": "another は「同じものをもう1つ」です。" }
+  ],
+  "choices": [
+    { "en": "Can I have another slice of pizza?", "ja": "ピザをもう1切れもらえますか？" },
+    { "en": "Can I have other slice of pizza?", "ja": "他のピザをもらえますか？" },
+    { "en": "Can I have the other slice of pizza?", "ja": "残りのもう1切れをもらえますか？(状況によってはOK)" },
+    { "en": "Can I have others pizza?", "ja": "他人のピザをもらえますか？" }
+  ],
+  "correctAnswer": { "en": "Can I have another slice of pizza?", "ja": "ピザをもう1切れもらえますか？" },
+  "explanation": {
+    "en": "We use 'another' to ask for one more of the same thing.",
+    "ja": "同じものをもう1つ欲しいときは another を使います。"
+  },
+  "acceptList": [{ "en": "can i have another slice of pizza?" }],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "You ate one slice of pizza and you want one more. What should you say?",
+      "ja": "ピザを1切れ食べて、もう1切れ欲しいとき、何と言うのがよいですか？"
+    },
+    "explanationText": {
+      "en": "We use 'another' to ask for one more of the same thing.",
+      "ja": "同じものをもう1つ欲しいときは another を使います。"
+    }
+  },
+  "tags": ["b1","words","another-other"]
+},
+{
+  "id": "b1-words-007",
+  "level": "B1",
+  "category": { "en": "Words", "ja": "語法" },
+  "subcategory": { "en": "Say / Tell", "ja": "say / tell" },
+  "topic": {
+    "id": "b1-words-say-tell",
+    "title": { "en": "Say or Tell?", "ja": "say と tell" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Your teacher gave you some advice. Which sentence is correct?",
+    "ja": "先生があなたにアドバイスをくれました。正しい文はどれですか？"
+  },
+  "hints": [
+    { "en": "Tell someone. Say something.", "ja": "tell の後には人、say の後には言葉が来ることが多いです。" }
+  ],
+  "choices": [
+    { "en": "My teacher told me to practice more.", "ja": "先生はもっと練習するようにと言いました。" },
+    { "en": "My teacher said me to practice more.", "ja": "先生は私にもっと練習すると言いました。" },
+    { "en": "My teacher told to practice more.", "ja": "先生はもっと練習すると言いました。(人が抜けている)" },
+    { "en": "My teacher said me practice more.", "ja": "先生は私もっと練習と言いました。" }
+  ],
+  "correctAnswer": {
+    "en": "My teacher told me to practice more.",
+    "ja": "先生はもっと練習するようにと言いました。"
+  },
+  "explanation": {
+    "en": "We use 'tell' with an object: tell + someone + to do.",
+    "ja": "tell の後には「人」が必要で、tell + someone + to do の形になります。"
+  },
+  "acceptList": [{ "en": "my teacher told me to practice more." }],
+  "tts": {
+    "voice": "en-GB-LibbyNeural",
+    "questionText": {
+      "en": "Your teacher gave you some advice. Which sentence is correct?",
+      "ja": "先生があなたにアドバイスをくれました。正しい文はどれですか？"
+    },
+    "explanationText": {
+      "en": "We use 'tell' with an object: tell + someone + to do.",
+      "ja": "tell の後には「人」が必要で、tell + someone + to do の形になります。"
+    }
+  },
+  "tags": ["b1","words","say-tell"]
+},
+{
+  "id": "b1-words-008",
+  "level": "B1",
+  "category": { "en": "Words", "ja": "語法" },
+  "subcategory": { "en": "Speak / Talk", "ja": "speak / talk" },
+  "topic": {
+    "id": "b1-words-speak-talk",
+    "title": { "en": "Speak or Talk?", "ja": "speak と talk" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to have a serious conversation with your friend. Which sentence is most natural?",
+    "ja": "友だちと真面目な話をしたいとき、一番自然な文はどれですか？"
+  },
+  "hints": [
+    { "en": "We often say 'talk to/with someone'.", "ja": "誰かと話すときは talk to/with someone をよく使います。" }
+  ],
+  "choices": [
+    { "en": "Can we talk about something important?", "ja": "大事なことを話してもいい？" },
+    { "en": "Can we speak about something important with?", "ja": "大事なことについて話すことができますか、いっしょに？" },
+    { "en": "Can we talk to about something important?", "ja": "大事なことについて話すことができますか to？" },
+    { "en": "Can we speaking something important?", "ja": "大事なことを話していることができますか？" }
+  ],
+  "correctAnswer": { "en": "Can we talk about something important?", "ja": "大事なことを話してもいい？" },
+  "explanation": {
+    "en": "We usually use 'talk' for conversations between people.",
+    "ja": "人と会話をするときは talk をよく使います。"
+  },
+  "acceptList": [{ "en": "can we talk about something important?" }],
+  "tts": {
+    "voice": "en-GB-RyanNeural",
+    "questionText": {
+      "en": "You want to have a serious conversation with your friend. Which sentence is most natural?",
+      "ja": "友だちと真面目な話をしたいとき、一番自然な文はどれですか？"
+    },
+    "explanationText": {
+      "en": "We usually use 'talk' for conversations between people.",
+      "ja": "人と会話をするときは talk をよく使います。"
+    }
+  },
+  "tags": ["b1","words","speak-talk"]
+},
+{
+  "id": "b1-words-009",
+  "level": "B1",
+  "category": { "en": "Words", "ja": "語法" },
+  "subcategory": { "en": "Until / By", "ja": "until / by" },
+  "topic": {
+    "id": "b1-words-until-by",
+    "title": { "en": "Until or By?", "ja": "until と by" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Your homework deadline is Friday. Which sentence is correct?",
+    "ja": "宿題の締め切りが金曜日のとき、正しい文はどれですか？"
+  },
+  "hints": [
+    { "en": "By Friday = before or on Friday.", "ja": "by Friday は「金曜日までに」です。" }
+  ],
+  "choices": [
+    { "en": "I have to finish my homework by Friday.", "ja": "金曜日までに宿題を終えなければなりません。" },
+    { "en": "I have to finish my homework until Friday.", "ja": "金曜日まで宿題を終えなければなりません。(多くの場面で不自然)" },
+    { "en": "I must by Friday finishing my homework.", "ja": "私は金曜日までに宿題を終えるべきです。(語順が不自然)" },
+    { "en": "I have Friday by finish my homework.", "ja": "私は金曜日持っています、宿題を終えるために。" }
+  ],
+  "correctAnswer": {
+    "en": "I have to finish my homework by Friday.",
+    "ja": "金曜日までに宿題を終えなければなりません。"
+  },
+  "explanation": {
+    "en": "We use 'by Friday' for deadlines.",
+    "ja": "締め切りには by Friday を使います。"
+  },
+  "acceptList": [{ "en": "i have to finish my homework by friday." }],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "Your homework deadline is Friday. Which sentence is correct?",
+      "ja": "宿題の締め切りが金曜日のとき、正しい文はどれですか？"
+    },
+    "explanationText": {
+      "en": "We use 'by Friday' for deadlines.",
+      "ja": "締め切りには by Friday を使います。"
+    }
+  },
+  "tags": ["b1","words","until-by"]
+},
+{
+  "id": "b1-words-010",
+  "level": "B1",
+  "category": { "en": "Words", "ja": "語法" },
+  "subcategory": { "en": "A few / Few", "ja": "a few / few" },
+  "topic": {
+    "id": "b1-words-a-few-few",
+    "title": { "en": "A few or Few?", "ja": "a few と few" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You have some friends in another country and you are happy about it. Which sentence is correct?",
+    "ja": "外国に何人か友だちがいて、うれしいと言いたいとき、正しい文はどれですか？"
+  },
+  "hints": [
+    { "en": "A few = some (positive). Few = not many (negative).", "ja": "a few は「いくらかいてうれしい」、few は「ほとんどいない」のニュアンスです。" }
+  ],
+  "choices": [
+    { "en": "I have a few friends in Canada.", "ja": "カナダに何人か友だちがいます。" },
+    { "en": "I have few friends in Canada and I’m happy.", "ja": "カナダにはほとんど友だちがいませんが、うれしいです。" },
+    { "en": "I have a few friend in Canada.", "ja": "カナダに何人か友だちがいます。(数と名詞が合っていない)" },
+    { "en": "I have little friends in Canada.", "ja": "カナダには友だちがほとんどいません。(不可算名詞用)" }
+  ],
+  "correctAnswer": {
+    "en": "I have a few friends in Canada.",
+    "ja": "カナダに何人か友だちがいます。"
+  },
+  "explanation": {
+    "en": "A few is used in a positive way to mean 'some'.",
+    "ja": "a few は前向きに「いくらかいる」という意味で使われます。"
+  },
+  "acceptList": [{ "en": "i have a few friends in canada." }],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "You have some friends in another country and you are happy about it. Which sentence is correct?",
+      "ja": "外国に何人か友だちがいて、うれしいと言いたいとき、正しい文はどれですか？"
+    },
+    "explanationText": {
+      "en": "A few is used in a positive way to mean 'some'.",
+      "ja": "a few は前向きに「いくらかいる」という意味で使われます。"
+    }
+  },
+  "tags": ["b1","words","a-few-few"]
+}
+]

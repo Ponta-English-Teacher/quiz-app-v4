@@ -1,0 +1,1377 @@
+[
+{
+  "id": "b2-places-001",
+  "level": "B2",
+  "category": { "en": "Places", "ja": "場所" },
+  "subcategory": { "en": "Travel", "ja": "旅行" },
+  "topic": {
+    "id": "b2-places-airbnb",
+    "title": { "en": "Rental Apartment", "ja": "レンタルアパート" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You and your friends want to stay together in one place with a kitchen on a trip. Where is the best place to book?",
+    "ja": "友だちと一緒に、キッチン付きの一つの部屋で泊まりたいとき、どこを予約するのが一番よさそうですか？"
+  },
+  "hints": [
+    { "en": "It feels more like staying in someone’s home than in a hotel.", "ja": "ホテルというより、人の家に泊まるような感じです。" }
+  ],
+  "choices": [
+    { "en": "A rental apartment (Airbnb)", "ja": "レンタルアパート（Airbnb など）" },
+    { "en": "A museum", "ja": "博物館" },
+    { "en": "An internet café", "ja": "ネットカフェ" },
+    { "en": "An amusement park", "ja": "遊園地" }
+  ],
+  "correctAnswer": {
+    "en": "A rental apartment (Airbnb)",
+    "ja": "レンタルアパート（Airbnb など）"
+  },
+  "explanation": {
+    "en": "Rental apartments usually have a kitchen and space for several people.",
+    "ja": "レンタルアパートは、キッチンがあり、複数人で泊まれることが多いです。"
+  },
+  "acceptList": [
+    { "en": "rental apartment" },
+    { "en": "airbnb" }
+  ],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "You and your friends want to stay together in one place with a kitchen on a trip. Where is the best place to book?",
+      "ja": "友だちと一緒に、キッチン付きの一つの部屋で泊まりたいとき、どこを予約するのが一番よさそうですか？"
+    },
+    "explanationText": {
+      "en": "Rental apartments usually have a kitchen and space for several people.",
+      "ja": "レンタルアパートは、キッチンがあり、複数人で泊まれることが多いです。"
+    }
+  },
+  "tags": ["b2","places","travel"]
+},
+{
+  "id": "b2-places-002",
+  "level": "B2",
+  "category": { "en": "Places", "ja": "場所" },
+  "subcategory": { "en": "City Life", "ja": "都会の生活" },
+  "topic": {
+    "id": "b2-places-co-working",
+    "title": { "en": "Co-working Space", "ja": "コワーキングスペース" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You need Wi-Fi, a quiet desk, and maybe free coffee to study all day in the city. Where would you probably go?",
+    "ja": "街で一日勉強したくて、Wi-Fi・静かな机・できれば無料のコーヒーが欲しいとき、どこへ行くのがよさそうですか？"
+  },
+  "hints": [
+    { "en": "Many freelancers and remote workers use this place.", "ja": "フリーランスやリモートワーカーがよく使う場所です。" }
+  ],
+  "choices": [
+    { "en": "A co-working space", "ja": "コワーキングスペース" },
+    { "en": "A theme park", "ja": "テーマパーク" },
+    { "en": "A post office", "ja": "郵便局" },
+    { "en": "A sports stadium", "ja": "スタジアム" }
+  ],
+  "correctAnswer": {
+    "en": "A co-working space",
+    "ja": "コワーキングスペース"
+  },
+  "explanation": {
+    "en": "Co-working spaces are designed for people who want to work or study with Wi-Fi and desks.",
+    "ja": "コワーキングスペースは、Wi-Fi と机があり、仕事や勉強をするための場所です。"
+  },
+  "acceptList": [
+    { "en": "co-working space" },
+    { "en": "coworking space" }
+  ],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "You need Wi-Fi, a quiet desk, and maybe free coffee to study all day in the city. Where would you probably go?",
+      "ja": "街で一日勉強したくて、Wi-Fi・静かな机・できれば無料のコーヒーが欲しいとき、どこへ行くのがよさそうですか？"
+    },
+    "explanationText": {
+      "en": "Co-working spaces are designed for people who want to work or study with Wi-Fi and desks.",
+      "ja": "コワーキングスペースは、Wi-Fi と机があり、仕事や勉強をするための場所です。"
+    }
+  },
+  "tags": ["b2","places","city"]
+},
+{
+  "id": "b2-places-003",
+  "level": "B2",
+  "category": { "en": "Places", "ja": "場所" },
+  "subcategory": { "en": "Travel Trouble", "ja": "旅行トラブル" },
+  "topic": {
+    "id": "b2-places-lost-passport",
+    "title": { "en": "Lost Passport", "ja": "パスポート紛失" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You lose your passport while traveling abroad. Where should you go first to get help?",
+    "ja": "海外旅行中にパスポートをなくしてしまいました。まず助けを求めるべきところはどこですか？"
+  },
+  "hints": [
+    { "en": "It represents your home country in that country.", "ja": "その国であなたの母国を代表している場所です。" }
+  ],
+  "choices": [
+    { "en": "Your country’s embassy or consulate", "ja": "自分の国の大使館または領事館" },
+    { "en": "A shopping mall", "ja": "ショッピングモール" },
+    { "en": "A stadium", "ja": "スタジアム" },
+    { "en": "A local café", "ja": "地元のカフェ" }
+  ],
+  "correctAnswer": {
+    "en": "Your country’s embassy or consulate",
+    "ja": "自分の国の大使館または領事館"
+  },
+  "explanation": {
+    "en": "Embassies and consulates can help you get a new passport or emergency document.",
+    "ja": "大使館や領事館は、パスポートの再発行や緊急渡航書の手続きを手伝ってくれます。"
+  },
+  "acceptList": [
+    { "en": "embassy" },
+    { "en": "consulate" },
+    { "en": "my country’s embassy" }
+  ],
+  "tts": {
+    "voice": "en-GB-LibbyNeural",
+    "questionText": {
+      "en": "You lose your passport while traveling abroad. Where should you go first to get help?",
+      "ja": "海外旅行中にパスポートをなくしてしまいました。まず助けを求めるべきところはどこですか？"
+    },
+    "explanationText": {
+      "en": "Embassies and consulates can help you get a new passport or emergency document.",
+      "ja": "大使館や領事館は、パスポートの再発行や緊急渡航書の手続きを手伝ってくれます。"
+    }
+  },
+  "tags": ["b2","places","travel","problems"]
+},
+{
+  "id": "b2-places-004",
+  "level": "B2",
+  "category": { "en": "Places", "ja": "場所" },
+  "subcategory": { "en": "Campus Life", "ja": "キャンパスライフ" },
+  "topic": {
+    "id": "b2-places-club-room",
+    "title": { "en": "Club Room", "ja": "クラブ室" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to join a student club and meet its members after class. Where are you most likely to find them hanging out?",
+    "ja": "サークルに入りたくて、授業後にメンバーに会いたいとき、みんなが集まっていそうな場所はどこですか？"
+  },
+  "hints": [
+    { "en": "There are posters, snacks, and sometimes musical instruments.", "ja": "ポスターやお菓子、時々楽器などが置いてあります。" }
+  ],
+  "choices": [
+    { "en": "In the club room", "ja": "クラブ室（部室）" },
+    { "en": "In the computer center", "ja": "コンピュータ室" },
+    { "en": "In the campus convenience store", "ja": "学内コンビニ" },
+    { "en": "In the library’s silent room", "ja": "図書館の自習室" }
+  ],
+  "correctAnswer": {
+    "en": "In the club room",
+    "ja": "クラブ室（部室）"
+  },
+  "explanation": {
+    "en": "Club members usually gather and relax in their club room.",
+    "ja": "サークルのメンバーは、たいてい部室に集まって過ごします。"
+  },
+  "acceptList": [
+    { "en": "club room" },
+    { "en": "in the club room" }
+  ],
+  "tts": {
+    "voice": "en-GB-RyanNeural",
+    "questionText": {
+      "en": "You want to join a student club and meet its members after class. Where are you most likely to find them hanging out?",
+      "ja": "サークルに入りたくて、授業後にメンバーに会いたいとき、みんなが集まっていそうな場所はどこですか？"
+    },
+    "explanationText": {
+      "en": "Club members usually gather and relax in their club room.",
+      "ja": "サークルのメンバーは、たいてい部室に集まって過ごします。"
+    }
+  },
+  "tags": ["b2","places","campus"]
+},
+{
+  "id": "b2-places-005",
+  "level": "B2",
+  "category": { "en": "Places", "ja": "場所" },
+  "subcategory": { "en": "Shopping", "ja": "買い物" },
+  "topic": {
+    "id": "b2-places-outlet",
+    "title": { "en": "Outlet Mall", "ja": "アウトレットモール" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want brand-name clothes but at cheaper prices. Where is the most suitable place to go?",
+    "ja": "ブランドの服が欲しいけれど、少し安く買いたいとき、一番合いそうな場所はどこですか？"
+  },
+  "hints": [
+    { "en": "Many brand shops are gathered, often a bit outside the city.", "ja": "たくさんのブランド店が集まっていて、街の外れにあることも多いです。" }
+  ],
+  "choices": [
+    { "en": "An outlet mall", "ja": "アウトレットモール" },
+    { "en": "A small convenience store", "ja": "コンビニ" },
+    { "en": "A hospital", "ja": "病院" },
+    { "en": "A language school", "ja": "語学学校" }
+  ],
+  "correctAnswer": {
+    "en": "An outlet mall",
+    "ja": "アウトレットモール"
+  },
+  "explanation": {
+    "en": "Outlet malls sell brand-name items at discounted prices.",
+    "ja": "アウトレットモールでは、ブランド品が割引価格で売られています。"
+  },
+  "acceptList": [
+    { "en": "outlet mall" },
+    { "en": "an outlet mall" }
+  ],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "You want brand-name clothes but at cheaper prices. Where is the most suitable place to go?",
+      "ja": "ブランドの服が欲しいけれど、少し安く買いたいとき、一番合いそうな場所はどこですか？"
+    },
+    "explanationText": {
+      "en": "Outlet malls sell brand-name items at discounted prices.",
+      "ja": "アウトレットモールでは、ブランド品が割引価格で売られています。"
+    }
+  },
+  "tags": ["b2","places","shopping"]
+},
+{
+  "id": "b2-places-006",
+  "level": "B2",
+  "category": { "en": "Places", "ja": "場所" },
+  "subcategory": { "en": "Relaxing", "ja": "リラックス" },
+  "topic": {
+    "id": "b2-places-hot-spring",
+    "title": { "en": "Hot Spring Town", "ja": "温泉街" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You feel exhausted from school and part-time work and want to completely relax in hot water and traditional Japanese inns. Where would you go?",
+    "ja": "学校とバイトでクタクタで、温かいお湯と旅館でゆっくりしたいとき、どこへ行きますか？"
+  },
+  "hints": [
+    { "en": "There are many ‘ryokan’ and public baths with natural hot water.", "ja": "旅館や天然温泉の公共浴場がたくさんある場所です。" }
+  ],
+  "choices": [
+    { "en": "A hot spring town", "ja": "温泉街" },
+    { "en": "An office building", "ja": "オフィスビル" },
+    { "en": "A driving school", "ja": "自動車学校" },
+    { "en": "A science museum", "ja": "科学館" }
+  ],
+  "correctAnswer": {
+    "en": "A hot spring town",
+    "ja": "温泉街"
+  },
+  "explanation": {
+    "en": "Hot spring towns are popular places to relax and stay in traditional inns.",
+    "ja": "温泉街は、温泉と旅館でゆっくり休める人気の場所です。"
+  },
+  "acceptList": [
+    { "en": "hot spring town" }
+  ],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "You feel exhausted from school and part-time work and want to completely relax in hot water and traditional Japanese inns. Where would you go?",
+      "ja": "学校とバイトでクタクタで、温かいお湯と旅館でゆっくりしたいとき、どこへ行きますか？"
+    },
+    "explanationText": {
+      "en": "Hot spring towns are popular places to relax and stay in traditional inns.",
+      "ja": "温泉街は、温泉と旅館でゆっくり休める人気の場所です。"
+    }
+  },
+  "tags": ["b2","places","relax"]
+},
+{
+  "id": "b2-places-007",
+  "level": "B2",
+  "category": { "en": "Places", "ja": "場所" },
+  "subcategory": { "en": "Events", "ja": "イベント" },
+  "topic": {
+    "id": "b2-places-convention-center",
+    "title": { "en": "Convention Center", "ja": "コンベンションセンター" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to visit an international anime and game event with many booths and stages. What kind of place usually hosts this?",
+    "ja": "たくさんのブースやステージがある国際的なアニメ・ゲームイベントに行きたいとき、普通どんな場所で開かれますか？"
+  },
+  "hints": [
+    { "en": "It is a huge building used for fairs and exhibitions.", "ja": "見本市や展示会のための大きな建物です。" }
+  ],
+  "choices": [
+    { "en": "A convention center", "ja": "コンベンションセンター" },
+    { "en": "A neighborhood park", "ja": "近所の公園" },
+    { "en": "A small café", "ja": "小さなカフェ" },
+    { "en": "A supermarket", "ja": "スーパー" }
+  ],
+  "correctAnswer": {
+    "en": "A convention center",
+    "ja": "コンベンションセンター"
+  },
+  "explanation": {
+    "en": "Large events with many booths are usually held in convention centers.",
+    "ja": "ブースがたくさんある大きなイベントは、たいていコンベンションセンターで開かれます。"
+  },
+  "acceptList": [
+    { "en": "convention center" }
+  ],
+  "tts": {
+    "voice": "en-GB-LibbyNeural",
+    "questionText": {
+      "en": "You want to visit an international anime and game event with many booths and stages. What kind of place usually hosts this?",
+      "ja": "たくさんのブースやステージがある国際的なアニメ・ゲームイベントに行きたいとき、普通どんな場所で開かれますか？"
+    },
+    "explanationText": {
+      "en": "Large events with many booths are usually held in convention centers.",
+      "ja": "ブースがたくさんある大きなイベントは、たいていコンベンションセンターで開かれます。"
+    }
+  },
+  "tags": ["b2","places","events"]
+},
+{
+  "id": "b2-places-008",
+  "level": "B2",
+  "category": { "en": "Places", "ja": "場所" },
+  "subcategory": { "en": "Night Life", "ja": "ナイトライフ" },
+  "topic": {
+    "id": "b2-places-live-house",
+    "title": { "en": "Live House", "ja": "ライブハウス" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to listen to your friend’s band playing rock music in a small, crowded place at night. Where will the band probably perform?",
+    "ja": "友だちのバンドが夜にロックを演奏します。小さくて人がぎゅうぎゅうの場所で聴きたいとき、そのバンドはたぶんどこで演奏しますか？"
+  },
+  "hints": [
+    { "en": "It’s smaller and more casual than a big concert hall.", "ja": "大きなホールより小さくて、もっとカジュアルな場所です。" }
+  ],
+  "choices": [
+    { "en": "At a live house", "ja": "ライブハウスで" },
+    { "en": "At a city hall", "ja": "市役所で" },
+    { "en": "At a driving school", "ja": "自動車学校で" },
+    { "en": "At the embassy", "ja": "大使館で" }
+  ],
+  "correctAnswer": {
+    "en": "At a live house",
+    "ja": "ライブハウスで"
+  },
+  "explanation": {
+    "en": "Small rock concerts are often held at live houses.",
+    "ja": "小さめのロックライブは、ライブハウスで行われることが多いです。"
+  },
+  "acceptList": [
+    { "en": "live house" },
+    { "en": "at a live house" }
+  ],
+  "tts": {
+    "voice": "en-GB-RyanNeural",
+    "questionText": {
+      "en": "You want to listen to your friend’s band playing rock music in a small, crowded place at night. Where will the band probably perform?",
+      "ja": "友だちのバンドが夜にロックを演奏します。小さくて人がぎゅうぎゅうの場所で聴きたいとき、そのバンドはたぶんどこで演奏しますか？"
+    },
+    "explanationText": {
+      "en": "Small rock concerts are often held at live houses.",
+      "ja": "小さめのロックライブは、ライブハウスで行われることが多いです。"
+    }
+  },
+  "tags": ["b2","places","nightlife","music"]
+},
+{
+  "id": "b2-places-009",
+  "level": "B2",
+  "category": { "en": "Places", "ja": "場所" },
+  "subcategory": { "en": "Everyday Life", "ja": "日常生活" },
+  "topic": {
+    "id": "b2-places-recycling-center",
+    "title": { "en": "Recycling Center", "ja": "リサイクルセンター" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You have a broken TV and some old electronics that you can’t just throw in the normal trash. Where should you take them?",
+    "ja": "壊れたテレビや古い電化製品があり、普通のゴミとしては出せません。どこへ持って行くべきですか？"
+  },
+  "hints": [
+    { "en": "The city collects and processes things there to reuse materials.", "ja": "市が集めて、もう一度使えるように処理する場所です。" }
+  ],
+  "choices": [
+    { "en": "A recycling center", "ja": "リサイクルセンター" },
+    { "en": "A bookshop", "ja": "本屋" },
+    { "en": "A karaoke box", "ja": "カラオケボックス" },
+    { "en": "A language school", "ja": "語学学校" }
+  ],
+  "correctAnswer": {
+    "en": "A recycling center",
+    "ja": "リサイクルセンター"
+  },
+  "explanation": {
+    "en": "Recycling centers deal with items that need special disposal or can be reused.",
+    "ja": "リサイクルセンターは、特別な処理が必要な物や再利用できる物を扱う場所です。"
+  },
+  "acceptList": [
+    { "en": "recycling center" }
+  ],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "You have a broken TV and some old electronics that you can’t just throw in the normal trash. Where should you take them?",
+      "ja": "壊れたテレビや古い電化製品があり、普通のゴミとしては出せません。どこへ持って行くべきですか？"
+    },
+    "explanationText": {
+      "en": "Recycling centers deal with items that need special disposal or can be reused.",
+      "ja": "リサイクルセンターは、特別な処理が必要な物や再利用できる物を扱う場所です。"
+    }
+  },
+  "tags": ["b2","places","everyday"]
+},
+{
+  "id": "b2-places-010",
+  "level": "B2",
+  "category": { "en": "Places", "ja": "場所" },
+  "subcategory": { "en": "Social Media Life (Real Place)", "ja": "SNSとリアルな場所" },
+  "topic": {
+    "id": "b2-places-photo-spot",
+    "title": { "en": "Photo Spot", "ja": "映えスポット" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to take a stylish photo for social media with a nice background and good lighting. Where are you most likely to go?",
+    "ja": "SNS に載せるおしゃれな写真を撮りたくて、背景もライトもきれいな場所に行きたいとき、一番行きそうな場所はどこですか？"
+  },
+  "hints": [
+    { "en": "Many people visit just to take pictures of the interior and drinks.", "ja": "内装やドリンクを写真に撮るためだけに来る人も多いです。" }
+  ],
+  "choices": [
+    { "en": "A trendy café", "ja": "おしゃれなカフェ" },
+    { "en": "A dentist’s office", "ja": "歯医者" },
+    { "en": "A driving test center", "ja": "運転試験場" },
+    { "en": "A city hall office", "ja": "市役所の窓口" }
+  ],
+  "correctAnswer": {
+    "en": "A trendy café",
+    "ja": "おしゃれなカフェ"
+  },
+  "explanation": {
+    "en": "People often go to trendy cafés to take attractive photos for social media.",
+    "ja": "おしゃれなカフェは、SNS 用の写真を撮りに行く場所としてよく選ばれます。"
+  },
+  "acceptList": [
+    { "en": "a trendy cafe" },
+    { "en": "trendy café" },
+    { "en": "trendy cafe" }
+  ],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "You want to take a stylish photo for social media with a nice background and good lighting. Where are you most likely to go?",
+      "ja": "SNS に載せるおしゃれな写真を撮りたくて、背景もライトもきれいな場所に行きたいとき、一番行きそうな場所はどこですか？"
+    },
+    "explanationText": {
+      "en": "People often go to trendy cafés to take attractive photos for social media.",
+      "ja": "おしゃれなカフェは、SNS 用の写真を撮りに行く場所としてよく選ばれます。"
+    }
+  },
+  "tags": ["b2","places","social-media","casual"]
+},
+{
+  "id": "b2-ent-001",
+  "level": "B2",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Streaming", "ja": "動画配信" },
+  "topic": {
+    "id": "b2-ent-streaming",
+    "title": { "en": "Streaming Service", "ja": "動画配信サービス" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Your friend is looking for a place to watch movies and dramas online without commercials. What should you recommend?",
+    "ja": "友だちがオンラインで映画やドラマを広告なしで見たいと言っています。何をすすめるのがよさそうですか？"
+  },
+  "hints": [
+    { "en": "Netflix, Disney+, Amazon Prime Video are examples.", "ja": "Netflix や Disney+、Prime Video などがあります。" }
+  ],
+  "choices": [
+    { "en": "A streaming service", "ja": "動画配信サービス" },
+    { "en": "A supermarket", "ja": "スーパー" },
+    { "en": "A local gym", "ja": "ジム" },
+    { "en": "A travel agency", "ja": "旅行代理店" }
+  ],
+  "correctAnswer": {
+    "en": "A streaming service",
+    "ja": "動画配信サービス"
+  },
+  "explanation": {
+    "en": "Streaming services allow people to watch movies online without commercials.",
+    "ja": "動画配信サービスでは、映画を広告なしでオンライン視聴できます。"
+  },
+  "acceptList": [
+    { "en": "streaming service" },
+    { "en": "a streaming service" }
+  ],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "Your friend is looking for a place to watch movies and dramas online without commercials. What should you recommend?",
+      "ja": "友だちがオンラインで映画やドラマを広告なしで見たいと言っています。何をすすめるのがよさそうですか？"
+    },
+    "explanationText": {
+      "en": "Streaming services allow people to watch movies online without commercials.",
+      "ja": "動画配信サービスでは、映画を広告なしでオンライン視聴できます。"
+    }
+  },
+  "tags": ["b2","entertainment","streaming"]
+},
+{
+  "id": "b2-ent-002",
+  "level": "B2",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Music", "ja": "音楽" },
+  "topic": {
+    "id": "b2-ent-busking",
+    "title": { "en": "Street Performance", "ja": "ストリートパフォーマンス" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You hear someone playing guitar and singing in front of a train station. What is this kind of performance called?",
+    "ja": "駅前でギターを弾きながら歌っている人がいます。こうしたパフォーマンスは何と呼ばれますか？"
+  },
+  "hints": [
+    { "en": "Musicians do it in public places.", "ja": "ミュージシャンが公共の場所で行います。" }
+  ],
+  "choices": [
+    { "en": "Busking", "ja": "バスキング（路上ライブ）" },
+    { "en": "Debating", "ja": "ディベート" },
+    { "en": "Teaching", "ja": "授業" },
+    { "en": "Directing", "ja": "監督" }
+  ],
+  "correctAnswer": {
+    "en": "Busking",
+    "ja": "バスキング（路上ライブ）"
+  },
+  "explanation": {
+    "en": "Busking means performing music or art in public spaces.",
+    "ja": "バスキングとは、公共の場所で音楽や芸を披露することです。"
+  },
+  "acceptList": [
+    { "en": "busking" }
+  ],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "You hear someone playing guitar and singing in front of a train station. What is this kind of performance called?",
+      "ja": "駅前でギターを弾きながら歌っている人がいます。こうしたパフォーマンスは何と呼ばれますか？"
+    },
+    "explanationText": {
+      "en": "Busking means performing music or art in public spaces.",
+      "ja": "バスキングとは、公共の場所で音楽や芸を披露することです。"
+    }
+  },
+  "tags": ["b2","entertainment","music"]
+},
+{
+  "id": "b2-ent-003",
+  "level": "B2",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Movies", "ja": "映画" },
+  "topic": {
+    "id": "b2-ent-trailer",
+    "title": { "en": "Movie Trailer", "ja": "映画予告編" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Before watching a movie, you see a short video introducing the story and characters. What is this called?",
+    "ja": "映画を見る前に、ストーリーやキャラクターを紹介する短い映像が流れます。これは何と呼ばれますか？"
+  },
+  "hints": [
+    { "en": "It helps you decide whether to watch the movie.", "ja": "見るかどうか決めるのに役立ちます。" }
+  ],
+  "choices": [
+    { "en": "A trailer", "ja": "予告編" },
+    { "en": "A documentary", "ja": "ドキュメンタリー" },
+    { "en": "A review", "ja": "レビュー" },
+    { "en": "A soundtrack", "ja": "サウンドトラック" }
+  ],
+  "correctAnswer": {
+    "en": "A trailer",
+    "ja": "予告編"
+  },
+  "explanation": {
+    "en": "A trailer is a short video that introduces a movie before its release.",
+    "ja": "予告編は、映画の公開前に紹介する短い映像です。"
+  },
+  "acceptList": [
+    { "en": "trailer" }
+  ],
+  "tts": {
+    "voice": "en-GB-LibbyNeural",
+    "questionText": {
+      "en": "Before watching a movie, you see a short video introducing the story and characters. What is this called?",
+      "ja": "映画を見る前に、ストーリーやキャラクターを紹介する短い映像が流れます。これは何と呼ばれますか？"
+    },
+    "explanationText": {
+      "en": "A trailer is a short video that introduces a movie before its release.",
+      "ja": "予告編は、映画の公開前に紹介する短い映像です。"
+    }
+  },
+  "tags": ["b2","entertainment","movies"]
+},
+{
+  "id": "b2-ent-004",
+  "level": "B2",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Music", "ja": "音楽" },
+  "topic": {
+    "id": "b2-ent-festival",
+    "title": { "en": "Music Festival", "ja": "音楽フェス" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to enjoy several bands and DJs performing outdoors with food stands and big crowds. What kind of event is this?",
+    "ja": "外でいくつものバンドや DJ の演奏を楽しみ、屋台も出ていて人がたくさんいるイベントは何ですか？"
+  },
+  "hints": [
+    { "en": "It often lasts all day or even several days.", "ja": "一日中、または数日続くことがあります。" }
+  ],
+  "choices": [
+    { "en": "A music festival", "ja": "音楽フェス" },
+    { "en": "A cooking class", "ja": "料理教室" },
+    { "en": "A business seminar", "ja": "ビジネスセミナー" },
+    { "en": "A speech contest", "ja": "スピーチコンテスト" }
+  ],
+  "correctAnswer": {
+    "en": "A music festival",
+    "ja": "音楽フェス"
+  },
+  "explanation": {
+    "en": "Music festivals include many artists and large outdoor stages.",
+    "ja": "音楽フェスでは、多くのアーティストが参加し、屋外ステージが設けられます。"
+  },
+  "acceptList": [
+    { "en": "music festival" }
+  ],
+  "tts": {
+    "voice": "en-GB-RyanNeural",
+    "questionText": {
+      "en": "You want to enjoy several bands and DJs performing outdoors with food stands and big crowds. What kind of event is this?",
+      "ja": "外でいくつものバンドや DJ の演奏を楽しみ、屋台も出ていて人がたくさんいるイベントは何ですか？"
+    },
+    "explanationText": {
+      "en": "Music festivals include many artists and large outdoor stages.",
+      "ja": "音楽フェスでは、多くのアーティストが参加し、屋外ステージが設けられます。"
+    }
+  },
+  "tags": ["b2","entertainment","music"]
+},
+{
+  "id": "b2-ent-005",
+  "level": "B2",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Video Games", "ja": "ゲーム" },
+  "topic": {
+    "id": "b2-ent-coop",
+    "title": { "en": "Co-op Games", "ja": "協力型ゲーム" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to play a game where you and your friend work together to clear stages instead of competing. What type of game should you choose?",
+    "ja": "友だちと競争ではなく協力してステージをクリアするゲームをやりたいとき、どのタイプのゲームを選べばよいですか？"
+  },
+  "hints": [
+    { "en": "You team up instead of fighting each other.", "ja": "お互いと戦うのではなく、チームを組みます。" }
+  ],
+  "choices": [
+    { "en": "A co-op game", "ja": "協力型ゲーム" },
+    { "en": "A puzzle book", "ja": "パズル本" },
+    { "en": "A weather forecast", "ja": "天気予報" },
+    { "en": "A cooking show", "ja": "料理番組" }
+  ],
+  "correctAnswer": {
+    "en": "A co-op game",
+    "ja": "協力型ゲーム"
+  },
+  "explanation": {
+    "en": "Co-op games let players work together toward a shared goal.",
+    "ja": "協力型ゲームは、プレイヤーが協力して同じ目標を達成するタイプのゲームです。"
+  },
+  "acceptList": [
+    { "en": "co-op game" },
+    { "en": "coop game" }
+  ],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "You want to play a game where you and your friend work together to clear stages instead of competing. What type of game should you choose?",
+      "ja": "友だちと競争ではなく協力してステージをクリアするゲームをやりたいとき、どのタイプのゲームを選べばよいですか？"
+    },
+    "explanationText": {
+      "en": "Co-op games let players work together toward a shared goal.",
+      "ja": "協力型ゲームは、プレイヤーが協力して同じ目標を達成するタイプのゲームです。"
+    }
+  },
+  "tags": ["b2","entertainment","gaming"]
+},
+{
+  "id": "b2-ent-006",
+  "level": "B2",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Events", "ja": "イベント" },
+  "topic": {
+    "id": "b2-ent-stand-up",
+    "title": { "en": "Stand-up Comedy", "ja": "スタンダップコメディ" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "A performer stands alone on stage and tells funny stories and jokes to the audience. What type of show is this?",
+    "ja": "舞台に一人で立ち、観客に面白い話やジョークを話すパフォーマンスは何ですか？"
+  },
+  "hints": [
+    { "en": "It is popular in the US and UK.", "ja": "アメリカやイギリスで人気があります。" }
+  ],
+  "choices": [
+    { "en": "Stand-up comedy", "ja": "スタンダップコメディ" },
+    { "en": "Opera", "ja": "オペラ" },
+    { "en": "Ballet", "ja": "バレエ" },
+    { "en": "Magic show", "ja": "マジックショー" }
+  ],
+  "correctAnswer": {
+    "en": "Stand-up comedy",
+    "ja": "スタンダップコメディ"
+  },
+  "explanation": {
+    "en": "Stand-up comedians perform alone, using humor to entertain the audience.",
+    "ja": "スタンダップコメディは、一人で面白い話をし、観客を笑わせるパフォーマンスです。"
+  },
+  "acceptList": [
+    { "en": "stand-up comedy" }
+  ],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "A performer stands alone on stage and tells funny stories and jokes to the audience. What type of show is this?",
+      "ja": "舞台に一人で立ち、観客に面白い話やジョークを話すパフォーマンスは何ですか？"
+    },
+    "explanationText": {
+      "en": "Stand-up comedians perform alone, using humor to entertain the audience.",
+      "ja": "スタンダップコメディは、一人で面白い話をし、観客を笑わせるパフォーマンスです。"
+    }
+  },
+  "tags": ["b2","entertainment","comedy"]
+},
+{
+  "id": "b2-ent-007",
+  "level": "B2",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Sports", "ja": "スポーツ" },
+  "topic": {
+    "id": "b2-ent-indoor-climbing",
+    "title": { "en": "Indoor Climbing", "ja": "インドアクライミング" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to try a challenging sport where you climb colorful walls with different levels. What is this activity called?",
+    "ja": "色とりどりの壁を難易度別に登るチャレンジングなスポーツをやってみたいとき、この活動は何と呼ばれますか？"
+  },
+  "hints": [
+    { "en": "You wear special shoes and sometimes a harness.", "ja": "専用シューズやハーネスを使うことがあります。" }
+  ],
+  "choices": [
+    { "en": "Indoor climbing", "ja": "インドアクライミング" },
+    { "en": "Bowling", "ja": "ボウリング" },
+    { "en": "Walking", "ja": "散歩" },
+    { "en": "Cooking", "ja": "料理" }
+  ],
+  "correctAnswer": {
+    "en": "Indoor climbing",
+    "ja": "インドアクライミング"
+  },
+  "explanation": {
+    "en": "Indoor climbing involves climbing artificial walls with routes of various difficulties.",
+    "ja": "インドアクライミングは、難易度の異なる人工壁を登るスポーツです。"
+  },
+  "acceptList": [
+    { "en": "indoor climbing" }
+  ],
+  "tts": {
+    "voice": "en-GB-LibbyNeural",
+    "questionText": {
+      "en": "You want to try a challenging sport where you climb colorful walls with different levels. What is this activity called?",
+      "ja": "色とりどりの壁を難易度別に登るチャレンジングなスポーツをやってみたいとき、この活動は何と呼ばれますか？"
+    },
+    "explanationText": {
+      "en": "Indoor climbing involves climbing artificial walls with routes of various difficulties.",
+      "ja": "インドアクライミングは、難易度の異なる人工壁を登るスポーツです。"
+    }
+  },
+  "tags": ["b2","entertainment","sports"]
+},
+{
+  "id": "b2-ent-008",
+  "level": "B2",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Art", "ja": "アート" },
+  "topic": {
+    "id": "b2-ent-digital-art",
+    "title": { "en": "Digital Art Gallery", "ja": "デジタルアートギャラリー" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You visit a place where art is projected on walls and the floor, and you can walk inside the artwork. What kind of attraction is this?",
+    "ja": "壁や床に映像が投影され、作品の中を歩けるような場所に行きました。これはどんな種類のアトラクションですか？"
+  },
+  "hints": [
+    { "en": "It uses light, sound, and digital images.", "ja": "光・音・デジタル映像を使います。" }
+  ],
+  "choices": [
+    { "en": "A digital art gallery", "ja": "デジタルアートギャラリー" },
+    { "en": "A pet shop", "ja": "ペットショップ" },
+    { "en": "A driving school", "ja": "自動車学校" },
+    { "en": "A post office", "ja": "郵便局" }
+  ],
+  "correctAnswer": {
+    "en": "A digital art gallery",
+    "ja": "デジタルアートギャラリー"
+  },
+  "explanation": {
+    "en": "Digital art galleries use projection to create immersive art experiences.",
+    "ja": "デジタルアートギャラリーは、投影を使って没入型のアート体験を提供します。"
+  },
+  "acceptList": [
+    { "en": "digital art gallery" }
+  ],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "You visit a place where art is projected on walls and the floor, and you can walk inside the artwork. What kind of attraction is this?",
+      "ja": "壁や床に映像が投影され、作品の中を歩けるような場所に行きました。これはどんな種類のアトラクションですか？"
+    },
+    "explanationText": {
+      "en": "Digital art galleries use projection to create immersive art experiences.",
+      "ja": "デジタルアートギャラリーは、投影を使って没入型のアート体験を提供します。"
+    }
+  },
+  "tags": ["b2","entertainment","art"]
+},
+{
+  "id": "b2-ent-009",
+  "level": "B2",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Social Activities", "ja": "社交" },
+  "topic": {
+    "id": "b2-ent-boardgame",
+    "title": { "en": "Board Game Café", "ja": "ボードゲームカフェ" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to spend time with friends playing card and board games while drinking coffee. Where should you go?",
+    "ja": "友だちとカードゲームやボードゲームをしながらコーヒーを楽しみたいとき、どこへ行くべきですか？"
+  },
+  "hints": [
+    { "en": "These places have many games available to borrow.", "ja": "借りられるゲームがたくさん置いてあります。" }
+  ],
+  "choices": [
+    { "en": "A board game café", "ja": "ボードゲームカフェ" },
+    { "en": "A hospital", "ja": "病院" },
+    { "en": "A bank", "ja": "銀行" },
+    { "en": "A car repair shop", "ja": "修理工場" }
+  ],
+  "correctAnswer": {
+    "en": "A board game café",
+    "ja": "ボードゲームカフェ"
+  },
+  "explanation": {
+    "en": "Board game cafés allow people to play games in a relaxed environment.",
+    "ja": "ボードゲームカフェでは、ゆったりした環境でゲームが楽しめます。"
+  },
+  "acceptList": [
+    { "en": "board game cafe" },
+    { "en": "board game café" }
+  ],
+  "tts": {
+    "voice": "en-GB-LibbyNeural",
+    "questionText": {
+      "en": "You want to spend time with friends playing card and board games while drinking coffee. Where should you go?",
+      "ja": "友だちとカードゲームやボードゲームをしながらコーヒーを楽しみたいとき、どこへ行くべきですか？"
+    },
+    "explanationText": {
+      "en": "Board game cafés allow people to play games in a relaxed environment.",
+      "ja": "ボードゲームカフェでは、ゆったりした環境でゲームが楽しめます。"
+    }
+  },
+  "tags": ["b2","entertainment","social"]
+},
+{
+  "id": "b2-ent-010",
+  "level": "B2",
+  "category": { "en": "Entertainment", "ja": "エンターテインメント" },
+  "subcategory": { "en": "Shows", "ja": "ショー" },
+  "topic": {
+    "id": "b2-ent-musical",
+    "title": { "en": "Musical Theater", "ja": "ミュージカル劇場" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want to watch a performance where the actors sing, dance, and act on stage with live music. What kind of show should you choose?",
+    "ja": "俳優が歌い、踊り、芝居をし、生演奏もあるステージを観たいとき、どんなショーを選べばよいですか？"
+  },
+  "hints": [
+    { "en": "It is more dramatic and musical than a regular play.", "ja": "普通の演劇より音楽とダンスが多いです。" }
+  ],
+  "choices": [
+    { "en": "A musical", "ja": "ミュージカル" },
+    { "en": "A science lecture", "ja": "科学講義" },
+    { "en": "A driving lesson", "ja": "運転レッスン" },
+    { "en": "A cooking show", "ja": "料理番組" }
+  ],
+  "correctAnswer": {
+    "en": "A musical",
+    "ja": "ミュージカル"
+  },
+  "explanation": {
+    "en": "Musicals combine singing, acting, and dancing with live music.",
+    "ja": "ミュージカルは、歌・演技・ダンスを生演奏と合わせた舞台です。"
+  },
+  "acceptList": [
+    { "en": "musical" }
+  ],
+  "tts": {
+    "voice": "en-GB-RyanNeural",
+    "questionText": {
+      "en": "You want to watch a performance where the actors sing, dance, and act on stage with live music. What kind of show should you choose?",
+      "ja": "俳優が歌い、踊り、芝居をし、生演奏もあるステージを観たいとき、どんなショーを選べばよいですか？"
+    },
+    "explanationText": {
+      "en": "Musicals combine singing, acting, and dancing with live music.",
+      "ja": "ミュージカルは、歌・演技・ダンスを生演奏と合わせた舞台です。"
+    }
+  },
+  "tags": ["b2","entertainment","shows"]
+},
+{
+  "id": "b2-words-001",
+  "level": "B2",
+  "category": { "en": "Words", "ja": "語彙" },
+  "subcategory": { "en": "Phrases", "ja": "表現" },
+  "topic": {
+    "id": "b2-words-catch-up",
+    "title": { "en": "Catch up", "ja": "近況を話す" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You haven't seen your friend for a long time. You want to talk and hear what has been happening recently in each other's life. What is this called?",
+    "ja": "友だちと久しぶりに会い、お互いの近況を話したいとき、これは何と呼ばれますか？"
+  },
+  "hints": [
+    { "en": "People often say it when meeting after a long time.", "ja": "長く会っていなかった人とよく使います。" }
+  ],
+  "choices": [
+    { "en": "To catch up", "ja": "キャッチアップする（近況を話す）" },
+    { "en": "To cool down", "ja": "落ち着く" },
+    { "en": "To check out", "ja": "チェックアウトする" },
+    { "en": "To give up", "ja": "あきらめる" }
+  ],
+  "correctAnswer": { "en": "To catch up", "ja": "キャッチアップする" },
+  "explanation": {
+    "en": "Catch up means talking with someone to update each other on recent events.",
+    "ja": "Catch up はお互いの近況を話し合うことを意味します。"
+  },
+  "acceptList": [{ "en": "catch up" }],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "You haven't seen your friend for a long time. You want to catch up. What is this called?",
+      "ja": "友だちと久しぶりに会い、近況を話したいとき、これは何と呼ばれますか？"
+    },
+    "explanationText": {
+      "en": "Catch up means talking with someone to update each other on recent events.",
+      "ja": "Catch up はお互いの近況を話し合うことです。"
+    }
+  },
+  "tags": ["b2","words","catch-up"]
+},
+{
+  "id": "b2-words-002",
+  "level": "B2",
+  "category": { "en": "Words", "ja": "語彙" },
+  "subcategory": { "en": "Usage", "ja": "使い分け" },
+  "topic": {
+    "id": "b2-words-lend-borrow",
+    "title": { "en": "Lend vs Borrow", "ja": "lend と borrow の違い" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You want your friend to give you a pencil for a short time. What should you say?",
+    "ja": "友だちから鉛筆を少しの間借りたいとき、何と言うべきですか？"
+  },
+  "hints": [
+    { "en": "\"Borrow\" = receive something. \"Lend\" = give something.", "ja": "Borrow＝借りる、Lend＝貸す。" }
+  ],
+  "choices": [
+    { "en": "Can I borrow a pencil?", "ja": "鉛筆を借りてもいい？" },
+    { "en": "Can you borrow a pencil?", "ja": "あなたが鉛筆を借りられる？" },
+    { "en": "Can I lend a pencil?", "ja": "私が鉛筆を貸してもいい？" },
+    { "en": "Can you lend me to a pencil?", "ja": "あなたは私を鉛筆に貸せる？（誤り）" }
+  ],
+  "correctAnswer": { "en": "Can I borrow a pencil?", "ja": "鉛筆を借りてもいい？" },
+  "explanation": {
+    "en": "Borrow is used when you receive something temporarily.",
+    "ja": "Borrow は「一時的に何かを受け取るとき」に使います。"
+  },
+  "acceptList": [{ "en": "borrow a pencil" }],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "You want your friend to give you a pencil for a short time. What should you say?",
+      "ja": "友だちから鉛筆を一時的に借りたいとき、何と言えばよいですか？"
+    },
+    "explanationText": {
+      "en": "Borrow is used when you receive something temporarily.",
+      "ja": "Borrow は「借りる」ときに使います。"
+    }
+  },
+  "tags": ["b2","words","lend-borrow"]
+},
+{
+  "id": "b2-words-003",
+  "level": "B2",
+  "category": { "en": "Words", "ja": "語彙" },
+  "subcategory": { "en": "Tone", "ja": "ニュアンス" },
+  "topic": {
+    "id": "b2-words-frustrated",
+    "title": { "en": "Frustrated", "ja": "frustrated の意味" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You tried several times to fix your computer, but it still doesn’t work. How do you feel?",
+    "ja": "何度もパソコンを直そうとしたのに、まだ動かないとき、どんな気持ちになりますか？"
+  },
+  "hints": [
+    { "en": "It means you are annoyed because things don’t go well.", "ja": "物事がうまくいかず、イライラする感じです。" }
+  ],
+  "choices": [
+    { "en": "Frustrated", "ja": "イライラしている" },
+    { "en": "Excited", "ja": "ワクワクしている" },
+    { "en": "Relaxed", "ja": "リラックスしている" },
+    { "en": "Sleepy", "ja": "眠い" }
+  ],
+  "correctAnswer": { "en": "Frustrated", "ja": "イライラしている" },
+  "explanation": {
+    "en": "Frustrated means feeling upset because things don’t work as expected.",
+    "ja": "Frustrated は、物事が思うようにいかずイライラすることです。"
+  },
+  "acceptList": [{ "en": "frustrated" }],
+  "tts": {
+    "voice": "en-GB-LibbyNeural",
+    "questionText": {
+      "en": "You tried fixing your computer several times but it still doesn’t work. How do you feel?",
+      "ja": "何度もパソコンを直そうとしても動かないとき、どんな気持ちになりますか？"
+    },
+    "explanationText": {
+      "en": "Frustrated means feeling upset because things do not work as expected.",
+      "ja": "Frustrated は物事が思うようにいかずイライラすることです。"
+    }
+  },
+  "tags": ["b2","words","frustrated"]
+},
+{
+  "id": "b2-words-004",
+  "level": "B2",
+  "category": { "en": "Words", "ja": "語彙" },
+  "subcategory": { "en": "Expressions", "ja": "表現" },
+  "topic": {
+    "id": "b2-words-fed-up",
+    "title": { "en": "Fed up with", "ja": "fed up with の意味" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Your roommate keeps leaving dirty dishes in the sink, and you're tired of it. How do you feel?",
+    "ja": "ルームメイトがいつも流しに汚れた皿を置きっぱなしで、もううんざりしています。どんな気持ちですか？"
+  },
+  "hints": [
+    { "en": "It means you're tired and annoyed.", "ja": "もう疲れてイライラしている状態です。" }
+  ],
+  "choices": [
+    { "en": "I'm fed up with it.", "ja": "もううんざりです。" },
+    { "en": "I’m proud of it.", "ja": "誇りに思っている。" },
+    { "en": "I’m curious about it.", "ja": "興味がある。" },
+    { "en": "I’m grateful for it.", "ja": "感謝している。" }
+  ],
+  "correctAnswer": { "en": "I'm fed up with it.", "ja": "もううんざりです。" },
+  "explanation": {
+    "en": "Fed up with means you are extremely tired or annoyed by something.",
+    "ja": "Fed up with は「何かにうんざりしている」という意味です。"
+  },
+  "acceptList": [{ "en": "fed up" }],
+  "tts": {
+    "voice": "en-GB-RyanNeural",
+    "questionText": {
+      "en": "Your roommate keeps leaving dirty dishes in the sink. How do you feel?",
+      "ja": "ルームメイトが皿をいつも置きっぱなしにしてうんざりしているとき、どんな気持ちですか？"
+    },
+    "explanationText": {
+      "en": "Fed up with means being extremely tired of something.",
+      "ja": "Fed up with は何かにうんざりしている状態です。"
+    }
+  },
+  "tags": ["b2","words","fed-up"]
+},
+{
+  "id": "b2-words-005",
+  "level": "B2",
+  "category": { "en": "Words", "ja": "語彙" },
+  "subcategory": { "en": "Usage", "ja": "使い方" },
+  "topic": {
+    "id": "b2-words-literally",
+    "title": { "en": "Literally", "ja": "literally の意味" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Your friend says, “I was literally dying of laughter!” What does “literally” mean here?",
+    "ja": "友だちが “I was literally dying of laughter!” と言いました。この literally はどういう意味ですか？"
+  },
+  "hints": [
+    { "en": "People often use it for emphasis, not for the exact meaning.", "ja": "強調のために使われ、本来の意味ではないことが多い。" }
+  ],
+  "choices": [
+    { "en": "It's an exaggeration showing strong feeling.", "ja": "強い気持ちの誇張表現。" },
+    { "en": "The person really almost died.", "ja": "本当に死にかけた。" },
+    { "en": "The person was sleepy.", "ja": "眠かった。" },
+    { "en": "The person was actually sick.", "ja": "病気だった。" }
+  ],
+  "correctAnswer": {
+    "en": "It's an exaggeration showing strong feeling.",
+    "ja": "強い気持ちの誇張表現。"
+  },
+  "explanation": {
+    "en": "Literally is often used for emphasis in casual speech.",
+    "ja": "Literally は日常会話では強調のために使われることが多いです。"
+  },
+  "acceptList": [{ "en": "exaggeration" }],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "Your friend says, 'I was literally dying of laughter.' What does 'literally' mean here?",
+      "ja": "友だちが “I was literally dying of laughter!” と言ったとき、この literally は何を意味していますか？"
+    },
+    "explanationText": {
+      "en": "Literally is often used for emphasis, not its true meaning.",
+      "ja": "Literally は本来の意味ではなく強調のために使われることが多いです。"
+    }
+  },
+  "tags": ["b2","words","literally"]
+},
+{
+  "id": "b2-words-006",
+  "level": "B2",
+  "category": { "en": "Words", "ja": "語彙" },
+  "subcategory": { "en": "Expressions", "ja": "表現" },
+  "topic": {
+    "id": "b2-words-make-sense",
+    "title": { "en": "Make sense", "ja": "make sense の意味" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Your friend explains something clearly, and you finally understand it. What can you say?",
+    "ja": "友だちが何かをわかりやすく説明して、やっと理解できたとき、何と言えますか？"
+  },
+  "hints": [
+    { "en": "It means 'I understand'.", "ja": "「理解できる」という意味です。" }
+  ],
+  "choices": [
+    { "en": "That makes sense!", "ja": "なるほど！" },
+    { "en": "I'm lost.", "ja": "わからない。" },
+    { "en": "Never mind.", "ja": "気にしないで。" },
+    { "en": "I don't care.", "ja": "どうでもいい。" }
+  ],
+  "correctAnswer": { "en": "That makes sense!", "ja": "なるほど！" },
+  "explanation": {
+    "en": "Make sense means something is logical and easy to understand.",
+    "ja": "Make sense は「理にかなっている／理解できる」という意味です。"
+  },
+  "acceptList": [{ "en": "makes sense" }],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "Your friend explains something clearly, and you finally understand. What can you say?",
+      "ja": "友だちがわかりやすく説明してやっと理解できたとき、何と言えますか？"
+    },
+    "explanationText": {
+      "en": "Make sense means something is logical and easy to understand.",
+      "ja": "Make sense は「理解できる」という意味です。"
+    }
+  },
+  "tags": ["b2","words","make-sense"]
+},
+{
+  "id": "b2-words-007",
+  "level": "B2",
+  "category": { "en": "Words", "ja": "語彙" },
+  "subcategory": { "en": "Usage", "ja": "使い分け" },
+  "topic": {
+    "id": "b2-words-hesitate",
+    "title": { "en": "Hesitate", "ja": "hesitate の意味" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Your friend wants to ask a question in class but is unsure and stops for a moment. What verb describes this action?",
+    "ja": "友だちが授業で質問したいけれど迷って一瞬止まったとき、この動作を表す動詞は何ですか？"
+  },
+  "hints": [
+    { "en": "It means you stop because you are unsure.", "ja": "迷いや不安で止まることです。" }
+  ],
+  "choices": [
+    { "en": "Hesitate", "ja": "ためらう" },
+    { "en": "Celebrate", "ja": "祝う" },
+    { "en": "Participate", "ja": "参加する" },
+    { "en": "Motivate", "ja": "やる気にさせる" }
+  ],
+  "correctAnswer": { "en": "Hesitate", "ja": "ためらう" },
+  "explanation": {
+    "en": "Hesitate means stopping briefly because you are unsure.",
+    "ja": "Hesitate は不安や迷いから一瞬止まることを表します。"
+  },
+  "acceptList": [{ "en": "hesitate" }],
+  "tts": {
+    "voice": "en-GB-LibbyNeural",
+    "questionText": {
+      "en": "Your friend wants to ask a question in class but stops because they are unsure. What verb describes this?",
+      "ja": "授業で質問したいけれど迷って止まったとき、この動作を表す動詞は何ですか？"
+    },
+    "explanationText": {
+      "en": "Hesitate means stopping briefly because you are unsure.",
+      "ja": "Hesitate は迷って止まる動作です。"
+    }
+  },
+  "tags": ["b2","words","hesitate"]
+},
+{
+  "id": "b2-words-008",
+  "level": "B2",
+  "category": { "en": "Words", "ja": "語彙" },
+  "subcategory": { "en": "Expressions", "ja": "表現" },
+  "topic": {
+    "id": "b2-words-on-purpose",
+    "title": { "en": "On purpose", "ja": "on purpose の意味" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Your friend spilled water on your notebook, but he did it as a joke and not by accident. How did he do it?",
+    "ja": "友だちがあなたのノートに水をこぼしましたが、冗談でわざとやったものでした。これはどのようにしたと言えますか？"
+  },
+  "hints": [
+    { "en": "The opposite of 'by accident'.", "ja": "「by accident（うっかり）」の反対。" }
+  ],
+  "choices": [
+    { "en": "On purpose", "ja": "わざと" },
+    { "en": "By accident", "ja": "うっかり" },
+    { "en": "In secret", "ja": "こっそり" },
+    { "en": "At random", "ja": "ランダムに" }
+  ],
+  "correctAnswer": { "en": "On purpose", "ja": "わざと" },
+  "explanation": {
+    "en": "On purpose means doing something intentionally.",
+    "ja": "On purpose は「意図的に」「わざと」という意味です。"
+  },
+  "acceptList": [{ "en": "on purpose" }],
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "questionText": {
+      "en": "Your friend spilled water on your notebook as a joke. How did he do it?",
+      "ja": "友だちが冗談でノートに水をこぼしたとき、どのようにしたと言えますか？"
+    },
+    "explanationText": {
+      "en": "On purpose means intentionally.",
+      "ja": "On purpose は「意図的に」という意味です。"
+    }
+  },
+  "tags": ["b2","words","on-purpose"]
+},
+{
+  "id": "b2-words-009",
+  "level": "B2",
+  "category": { "en": "Words", "ja": "語彙" },
+  "subcategory": { "en": "Usage", "ja": "使い分け" },
+  "topic": {
+    "id": "b2-words-remind-remember",
+    "title": { "en": "Remind vs Remember", "ja": "remind と remember の違い" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "Your friend helped you by telling you about your homework deadline again. What did your friend do?",
+    "ja": "友だちが宿題の締め切りをもう一度教えてくれて助かりました。友だちは何をしたのですか？"
+  },
+  "hints": [
+    { "en": "Remember = keep in your mind. Remind = make someone remember.", "ja": "Remember＝自分が覚える、Remind＝誰かに思い出させる。" }
+  ],
+  "choices": [
+    { "en": "He reminded me.", "ja": "思い出させてくれた。" },
+    { "en": "He remembered me.", "ja": "彼が私を覚えていた。" },
+    { "en": "He forgot me.", "ja": "彼は私を忘れた。" },
+    { "en": "He ignored me.", "ja": "彼は私を無視した。" }
+  ],
+  "correctAnswer": { "en": "He reminded me.", "ja": "思い出させてくれた。" },
+  "explanation": {
+    "en": "Remind means telling someone so they don’t forget.",
+    "ja": "Remind は「忘れないように人に知らせる」ことです。"
+  },
+  "acceptList": [{ "en": "reminded" }],
+  "tts": {
+    "voice": "en-GB-RyanNeural",
+    "questionText": {
+      "en": "Your friend told you again about your homework deadline. What did he do?",
+      "ja": "友だちが宿題の締め切りをもう一度教えてくれました。彼は何をしたと言えますか？"
+    },
+    "explanationText": {
+      "en": "Remind means telling someone so they do not forget.",
+      "ja": "Remind は「忘れないよう知らせる」という意味です。"
+    }
+  },
+  "tags": ["b2","words","remind-remember"]
+},
+{
+  "id": "b2-words-010",
+  "level": "B2",
+  "category": { "en": "Words", "ja": "語彙" },
+  "subcategory": { "en": "Expressions", "ja": "表現" },
+  "topic": {
+    "id": "b2-words-turn-out",
+    "title": { "en": "Turn out", "ja": "turn out の意味" }
+  },
+  "questionType": "shortToMC",
+  "question": {
+    "en": "You thought a movie would be boring, but it was actually great. What can you say?",
+    "ja": "つまらないと思っていた映画が実際はとても良かったとき、何と言えますか？"
+  },
+  "hints": [
+    { "en": "It means the result was different from your expectation.", "ja": "結果が予想と違っていたという意味。" }
+  ],
+  "choices": [
+    { "en": "It turned out great!", "ja": "結果的にすごく良かった！" },
+    { "en": "It turned off great.", "ja": "（誤り）turn off＝消す。" },
+    { "en": "It woke up great.", "ja": "（誤り）wake up＝起きる。" },
+    { "en": "It looked away.", "ja": "（誤り）look away＝目をそらす。" }
+  ],
+  "correctAnswer": { "en": "It turned out great!", "ja": "結果的にすごく良かった！" },
+  "explanation": {
+    "en": "Turn out means the final result of something.",
+    "ja": "Turn out は「結果として〜になる」という意味です。"
+  },
+  "acceptList": [{ "en": "turned out" }],
+  "tts": {
+    "voice": "en-US-GuyNeural",
+    "questionText": {
+      "en": "You thought the movie would be boring, but it was great. What can you say?",
+      "ja": "つまらないと思っていた映画が実際はとても良かったとき、何と言えますか？"
+    },
+    "explanationText": {
+      "en": "Turn out means the final result.",
+      "ja": "Turn out は「結果」を表す表現です。"
+    }
+  },
+  "tags": ["b2","words","turn-out"]
+}
+]

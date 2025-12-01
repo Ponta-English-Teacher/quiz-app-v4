@@ -144,8 +144,8 @@
     const fileMap = {
       A1: "data/quizData_A1.json",
       A2: "data/quizData_A2.json",
-      B1: "data/packs/B1-dummy.json",
-      B2: "data/packs/B2-dummy.json",
+      B1: "data/quizData_B1.json",
+      B2: "data/quizData_B2.json",
     };
     const file = fileMap[level] || fileMap.A1;
 
